@@ -1,0 +1,1792 @@
+holiday,name,family,year,date,weekday,observed_date,begins_evening_of,last_day,checked_against
+new-years-day,New Year's Day,federal,2011,2011-01-01,Saturday,2010-12-31,,,opm calendar
+new-years-day,New Year's Day,federal,2012,2012-01-01,Sunday,2012-01-02,,,opm calendar
+new-years-day,New Year's Day,federal,2013,2013-01-01,Tuesday,2013-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2014,2014-01-01,Wednesday,2014-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2015,2015-01-01,Thursday,2015-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2016,2016-01-01,Friday,2016-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2017,2017-01-01,Sunday,2017-01-02,,,opm calendar
+new-years-day,New Year's Day,federal,2018,2018-01-01,Monday,2018-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2019,2019-01-01,Tuesday,2019-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2020,2020-01-01,Wednesday,2020-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2021,2021-01-01,Friday,2021-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2022,2022-01-01,Saturday,2021-12-31,,,opm calendar
+new-years-day,New Year's Day,federal,2023,2023-01-01,Sunday,2023-01-02,,,opm calendar
+new-years-day,New Year's Day,federal,2024,2024-01-01,Monday,2024-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2025,2025-01-01,Wednesday,2025-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2026,2026-01-01,Thursday,2026-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2027,2027-01-01,Friday,2027-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2028,2028-01-01,Saturday,2027-12-31,,,opm calendar
+new-years-day,New Year's Day,federal,2029,2029-01-01,Monday,2029-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2030,2030-01-01,Tuesday,2030-01-01,,,opm calendar
+new-years-day,New Year's Day,federal,2031,2031-01-01,Wednesday,2031-01-01,,,calendar
+new-years-day,New Year's Day,federal,2032,2032-01-01,Thursday,2032-01-01,,,calendar
+new-years-day,New Year's Day,federal,2033,2033-01-01,Saturday,2032-12-31,,,calendar
+new-years-day,New Year's Day,federal,2034,2034-01-01,Sunday,2034-01-02,,,calendar
+new-years-day,New Year's Day,federal,2035,2035-01-01,Monday,2035-01-01,,,calendar
+new-years-day,New Year's Day,federal,2036,2036-01-01,Tuesday,2036-01-01,,,calendar
+new-years-day,New Year's Day,federal,2037,2037-01-01,Thursday,2037-01-01,,,calendar
+new-years-day,New Year's Day,federal,2038,2038-01-01,Friday,2038-01-01,,,calendar
+new-years-day,New Year's Day,federal,2039,2039-01-01,Saturday,2038-12-31,,,calendar
+new-years-day,New Year's Day,federal,2040,2040-01-01,Sunday,2040-01-02,,,calendar
+new-years-day,New Year's Day,federal,2041,2041-01-01,Tuesday,2041-01-01,,,calendar
+new-years-day,New Year's Day,federal,2042,2042-01-01,Wednesday,2042-01-01,,,calendar
+new-years-day,New Year's Day,federal,2043,2043-01-01,Thursday,2043-01-01,,,calendar
+new-years-day,New Year's Day,federal,2044,2044-01-01,Friday,2044-01-01,,,calendar
+new-years-day,New Year's Day,federal,2045,2045-01-01,Sunday,2045-01-02,,,calendar
+new-years-day,New Year's Day,federal,2046,2046-01-01,Monday,2046-01-01,,,calendar
+new-years-day,New Year's Day,federal,2047,2047-01-01,Tuesday,2047-01-01,,,calendar
+new-years-day,New Year's Day,federal,2048,2048-01-01,Wednesday,2048-01-01,,,calendar
+new-years-day,New Year's Day,federal,2049,2049-01-01,Friday,2049-01-01,,,calendar
+new-years-day,New Year's Day,federal,2050,2050-01-01,Saturday,2049-12-31,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2011,2011-01-17,Monday,2011-01-17,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2012,2012-01-16,Monday,2012-01-16,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2013,2013-01-21,Monday,2013-01-21,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2014,2014-01-20,Monday,2014-01-20,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2015,2015-01-19,Monday,2015-01-19,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2016,2016-01-18,Monday,2016-01-18,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2017,2017-01-16,Monday,2017-01-16,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2018,2018-01-15,Monday,2018-01-15,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2019,2019-01-21,Monday,2019-01-21,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2020,2020-01-20,Monday,2020-01-20,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2021,2021-01-18,Monday,2021-01-18,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2022,2022-01-17,Monday,2022-01-17,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2023,2023-01-16,Monday,2023-01-16,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2024,2024-01-15,Monday,2024-01-15,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2025,2025-01-20,Monday,2025-01-20,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2026,2026-01-19,Monday,2026-01-19,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2027,2027-01-18,Monday,2027-01-18,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2028,2028-01-17,Monday,2028-01-17,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2029,2029-01-15,Monday,2029-01-15,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2030,2030-01-21,Monday,2030-01-21,,,opm calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2031,2031-01-20,Monday,2031-01-20,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2032,2032-01-19,Monday,2032-01-19,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2033,2033-01-17,Monday,2033-01-17,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2034,2034-01-16,Monday,2034-01-16,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2035,2035-01-15,Monday,2035-01-15,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2036,2036-01-21,Monday,2036-01-21,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2037,2037-01-19,Monday,2037-01-19,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2038,2038-01-18,Monday,2038-01-18,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2039,2039-01-17,Monday,2039-01-17,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2040,2040-01-16,Monday,2040-01-16,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2041,2041-01-21,Monday,2041-01-21,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2042,2042-01-20,Monday,2042-01-20,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2043,2043-01-19,Monday,2043-01-19,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2044,2044-01-18,Monday,2044-01-18,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2045,2045-01-16,Monday,2045-01-16,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2046,2046-01-15,Monday,2046-01-15,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2047,2047-01-21,Monday,2047-01-21,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2048,2048-01-20,Monday,2048-01-20,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2049,2049-01-18,Monday,2049-01-18,,,calendar
+martin-luther-king-jr-day,Martin Luther King Jr. Day,federal,2050,2050-01-17,Monday,2050-01-17,,,calendar
+presidents-day,Presidents' Day,federal,2011,2011-02-21,Monday,2011-02-21,,,opm calendar
+presidents-day,Presidents' Day,federal,2012,2012-02-20,Monday,2012-02-20,,,opm calendar
+presidents-day,Presidents' Day,federal,2013,2013-02-18,Monday,2013-02-18,,,opm calendar
+presidents-day,Presidents' Day,federal,2014,2014-02-17,Monday,2014-02-17,,,opm calendar
+presidents-day,Presidents' Day,federal,2015,2015-02-16,Monday,2015-02-16,,,opm calendar
+presidents-day,Presidents' Day,federal,2016,2016-02-15,Monday,2016-02-15,,,opm calendar
+presidents-day,Presidents' Day,federal,2017,2017-02-20,Monday,2017-02-20,,,opm calendar
+presidents-day,Presidents' Day,federal,2018,2018-02-19,Monday,2018-02-19,,,opm calendar
+presidents-day,Presidents' Day,federal,2019,2019-02-18,Monday,2019-02-18,,,opm calendar
+presidents-day,Presidents' Day,federal,2020,2020-02-17,Monday,2020-02-17,,,opm calendar
+presidents-day,Presidents' Day,federal,2021,2021-02-15,Monday,2021-02-15,,,opm calendar
+presidents-day,Presidents' Day,federal,2022,2022-02-21,Monday,2022-02-21,,,opm calendar
+presidents-day,Presidents' Day,federal,2023,2023-02-20,Monday,2023-02-20,,,opm calendar
+presidents-day,Presidents' Day,federal,2024,2024-02-19,Monday,2024-02-19,,,opm calendar
+presidents-day,Presidents' Day,federal,2025,2025-02-17,Monday,2025-02-17,,,opm calendar
+presidents-day,Presidents' Day,federal,2026,2026-02-16,Monday,2026-02-16,,,opm calendar
+presidents-day,Presidents' Day,federal,2027,2027-02-15,Monday,2027-02-15,,,opm calendar
+presidents-day,Presidents' Day,federal,2028,2028-02-21,Monday,2028-02-21,,,opm calendar
+presidents-day,Presidents' Day,federal,2029,2029-02-19,Monday,2029-02-19,,,opm calendar
+presidents-day,Presidents' Day,federal,2030,2030-02-18,Monday,2030-02-18,,,opm calendar
+presidents-day,Presidents' Day,federal,2031,2031-02-17,Monday,2031-02-17,,,calendar
+presidents-day,Presidents' Day,federal,2032,2032-02-16,Monday,2032-02-16,,,calendar
+presidents-day,Presidents' Day,federal,2033,2033-02-21,Monday,2033-02-21,,,calendar
+presidents-day,Presidents' Day,federal,2034,2034-02-20,Monday,2034-02-20,,,calendar
+presidents-day,Presidents' Day,federal,2035,2035-02-19,Monday,2035-02-19,,,calendar
+presidents-day,Presidents' Day,federal,2036,2036-02-18,Monday,2036-02-18,,,calendar
+presidents-day,Presidents' Day,federal,2037,2037-02-16,Monday,2037-02-16,,,calendar
+presidents-day,Presidents' Day,federal,2038,2038-02-15,Monday,2038-02-15,,,calendar
+presidents-day,Presidents' Day,federal,2039,2039-02-21,Monday,2039-02-21,,,calendar
+presidents-day,Presidents' Day,federal,2040,2040-02-20,Monday,2040-02-20,,,calendar
+presidents-day,Presidents' Day,federal,2041,2041-02-18,Monday,2041-02-18,,,calendar
+presidents-day,Presidents' Day,federal,2042,2042-02-17,Monday,2042-02-17,,,calendar
+presidents-day,Presidents' Day,federal,2043,2043-02-16,Monday,2043-02-16,,,calendar
+presidents-day,Presidents' Day,federal,2044,2044-02-15,Monday,2044-02-15,,,calendar
+presidents-day,Presidents' Day,federal,2045,2045-02-20,Monday,2045-02-20,,,calendar
+presidents-day,Presidents' Day,federal,2046,2046-02-19,Monday,2046-02-19,,,calendar
+presidents-day,Presidents' Day,federal,2047,2047-02-18,Monday,2047-02-18,,,calendar
+presidents-day,Presidents' Day,federal,2048,2048-02-17,Monday,2048-02-17,,,calendar
+presidents-day,Presidents' Day,federal,2049,2049-02-15,Monday,2049-02-15,,,calendar
+presidents-day,Presidents' Day,federal,2050,2050-02-21,Monday,2050-02-21,,,calendar
+memorial-day,Memorial Day,federal,2011,2011-05-30,Monday,2011-05-30,,,opm calendar
+memorial-day,Memorial Day,federal,2012,2012-05-28,Monday,2012-05-28,,,opm calendar
+memorial-day,Memorial Day,federal,2013,2013-05-27,Monday,2013-05-27,,,opm calendar
+memorial-day,Memorial Day,federal,2014,2014-05-26,Monday,2014-05-26,,,opm calendar
+memorial-day,Memorial Day,federal,2015,2015-05-25,Monday,2015-05-25,,,opm calendar
+memorial-day,Memorial Day,federal,2016,2016-05-30,Monday,2016-05-30,,,opm calendar
+memorial-day,Memorial Day,federal,2017,2017-05-29,Monday,2017-05-29,,,opm calendar
+memorial-day,Memorial Day,federal,2018,2018-05-28,Monday,2018-05-28,,,opm calendar
+memorial-day,Memorial Day,federal,2019,2019-05-27,Monday,2019-05-27,,,opm calendar
+memorial-day,Memorial Day,federal,2020,2020-05-25,Monday,2020-05-25,,,opm calendar
+memorial-day,Memorial Day,federal,2021,2021-05-31,Monday,2021-05-31,,,opm calendar
+memorial-day,Memorial Day,federal,2022,2022-05-30,Monday,2022-05-30,,,opm calendar
+memorial-day,Memorial Day,federal,2023,2023-05-29,Monday,2023-05-29,,,opm calendar
+memorial-day,Memorial Day,federal,2024,2024-05-27,Monday,2024-05-27,,,opm calendar
+memorial-day,Memorial Day,federal,2025,2025-05-26,Monday,2025-05-26,,,opm calendar
+memorial-day,Memorial Day,federal,2026,2026-05-25,Monday,2026-05-25,,,opm calendar
+memorial-day,Memorial Day,federal,2027,2027-05-31,Monday,2027-05-31,,,opm calendar
+memorial-day,Memorial Day,federal,2028,2028-05-29,Monday,2028-05-29,,,opm calendar
+memorial-day,Memorial Day,federal,2029,2029-05-28,Monday,2029-05-28,,,opm calendar
+memorial-day,Memorial Day,federal,2030,2030-05-27,Monday,2030-05-27,,,opm calendar
+memorial-day,Memorial Day,federal,2031,2031-05-26,Monday,2031-05-26,,,calendar
+memorial-day,Memorial Day,federal,2032,2032-05-31,Monday,2032-05-31,,,calendar
+memorial-day,Memorial Day,federal,2033,2033-05-30,Monday,2033-05-30,,,calendar
+memorial-day,Memorial Day,federal,2034,2034-05-29,Monday,2034-05-29,,,calendar
+memorial-day,Memorial Day,federal,2035,2035-05-28,Monday,2035-05-28,,,calendar
+memorial-day,Memorial Day,federal,2036,2036-05-26,Monday,2036-05-26,,,calendar
+memorial-day,Memorial Day,federal,2037,2037-05-25,Monday,2037-05-25,,,calendar
+memorial-day,Memorial Day,federal,2038,2038-05-31,Monday,2038-05-31,,,calendar
+memorial-day,Memorial Day,federal,2039,2039-05-30,Monday,2039-05-30,,,calendar
+memorial-day,Memorial Day,federal,2040,2040-05-28,Monday,2040-05-28,,,calendar
+memorial-day,Memorial Day,federal,2041,2041-05-27,Monday,2041-05-27,,,calendar
+memorial-day,Memorial Day,federal,2042,2042-05-26,Monday,2042-05-26,,,calendar
+memorial-day,Memorial Day,federal,2043,2043-05-25,Monday,2043-05-25,,,calendar
+memorial-day,Memorial Day,federal,2044,2044-05-30,Monday,2044-05-30,,,calendar
+memorial-day,Memorial Day,federal,2045,2045-05-29,Monday,2045-05-29,,,calendar
+memorial-day,Memorial Day,federal,2046,2046-05-28,Monday,2046-05-28,,,calendar
+memorial-day,Memorial Day,federal,2047,2047-05-27,Monday,2047-05-27,,,calendar
+memorial-day,Memorial Day,federal,2048,2048-05-25,Monday,2048-05-25,,,calendar
+memorial-day,Memorial Day,federal,2049,2049-05-31,Monday,2049-05-31,,,calendar
+memorial-day,Memorial Day,federal,2050,2050-05-30,Monday,2050-05-30,,,calendar
+juneteenth,Juneteenth,federal,2021,2021-06-19,Saturday,2021-06-18,,,opm calendar
+juneteenth,Juneteenth,federal,2022,2022-06-19,Sunday,2022-06-20,,,opm calendar
+juneteenth,Juneteenth,federal,2023,2023-06-19,Monday,2023-06-19,,,opm calendar
+juneteenth,Juneteenth,federal,2024,2024-06-19,Wednesday,2024-06-19,,,opm calendar
+juneteenth,Juneteenth,federal,2025,2025-06-19,Thursday,2025-06-19,,,opm calendar
+juneteenth,Juneteenth,federal,2026,2026-06-19,Friday,2026-06-19,,,opm calendar
+juneteenth,Juneteenth,federal,2027,2027-06-19,Saturday,2027-06-18,,,opm calendar
+juneteenth,Juneteenth,federal,2028,2028-06-19,Monday,2028-06-19,,,opm calendar
+juneteenth,Juneteenth,federal,2029,2029-06-19,Tuesday,2029-06-19,,,opm calendar
+juneteenth,Juneteenth,federal,2030,2030-06-19,Wednesday,2030-06-19,,,opm calendar
+juneteenth,Juneteenth,federal,2031,2031-06-19,Thursday,2031-06-19,,,calendar
+juneteenth,Juneteenth,federal,2032,2032-06-19,Saturday,2032-06-18,,,calendar
+juneteenth,Juneteenth,federal,2033,2033-06-19,Sunday,2033-06-20,,,calendar
+juneteenth,Juneteenth,federal,2034,2034-06-19,Monday,2034-06-19,,,calendar
+juneteenth,Juneteenth,federal,2035,2035-06-19,Tuesday,2035-06-19,,,calendar
+juneteenth,Juneteenth,federal,2036,2036-06-19,Thursday,2036-06-19,,,calendar
+juneteenth,Juneteenth,federal,2037,2037-06-19,Friday,2037-06-19,,,calendar
+juneteenth,Juneteenth,federal,2038,2038-06-19,Saturday,2038-06-18,,,calendar
+juneteenth,Juneteenth,federal,2039,2039-06-19,Sunday,2039-06-20,,,calendar
+juneteenth,Juneteenth,federal,2040,2040-06-19,Tuesday,2040-06-19,,,calendar
+juneteenth,Juneteenth,federal,2041,2041-06-19,Wednesday,2041-06-19,,,calendar
+juneteenth,Juneteenth,federal,2042,2042-06-19,Thursday,2042-06-19,,,calendar
+juneteenth,Juneteenth,federal,2043,2043-06-19,Friday,2043-06-19,,,calendar
+juneteenth,Juneteenth,federal,2044,2044-06-19,Sunday,2044-06-20,,,calendar
+juneteenth,Juneteenth,federal,2045,2045-06-19,Monday,2045-06-19,,,calendar
+juneteenth,Juneteenth,federal,2046,2046-06-19,Tuesday,2046-06-19,,,calendar
+juneteenth,Juneteenth,federal,2047,2047-06-19,Wednesday,2047-06-19,,,calendar
+juneteenth,Juneteenth,federal,2048,2048-06-19,Friday,2048-06-19,,,calendar
+juneteenth,Juneteenth,federal,2049,2049-06-19,Saturday,2049-06-18,,,calendar
+juneteenth,Juneteenth,federal,2050,2050-06-19,Sunday,2050-06-20,,,calendar
+independence-day,Independence Day (July 4th),federal,2011,2011-07-04,Monday,2011-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2012,2012-07-04,Wednesday,2012-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2013,2013-07-04,Thursday,2013-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2014,2014-07-04,Friday,2014-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2015,2015-07-04,Saturday,2015-07-03,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2016,2016-07-04,Monday,2016-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2017,2017-07-04,Tuesday,2017-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2018,2018-07-04,Wednesday,2018-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2019,2019-07-04,Thursday,2019-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2020,2020-07-04,Saturday,2020-07-03,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2021,2021-07-04,Sunday,2021-07-05,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2022,2022-07-04,Monday,2022-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2023,2023-07-04,Tuesday,2023-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2024,2024-07-04,Thursday,2024-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2025,2025-07-04,Friday,2025-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2026,2026-07-04,Saturday,2026-07-03,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2027,2027-07-04,Sunday,2027-07-05,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2028,2028-07-04,Tuesday,2028-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2029,2029-07-04,Wednesday,2029-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2030,2030-07-04,Thursday,2030-07-04,,,opm calendar
+independence-day,Independence Day (July 4th),federal,2031,2031-07-04,Friday,2031-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2032,2032-07-04,Sunday,2032-07-05,,,calendar
+independence-day,Independence Day (July 4th),federal,2033,2033-07-04,Monday,2033-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2034,2034-07-04,Tuesday,2034-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2035,2035-07-04,Wednesday,2035-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2036,2036-07-04,Friday,2036-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2037,2037-07-04,Saturday,2037-07-03,,,calendar
+independence-day,Independence Day (July 4th),federal,2038,2038-07-04,Sunday,2038-07-05,,,calendar
+independence-day,Independence Day (July 4th),federal,2039,2039-07-04,Monday,2039-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2040,2040-07-04,Wednesday,2040-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2041,2041-07-04,Thursday,2041-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2042,2042-07-04,Friday,2042-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2043,2043-07-04,Saturday,2043-07-03,,,calendar
+independence-day,Independence Day (July 4th),federal,2044,2044-07-04,Monday,2044-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2045,2045-07-04,Tuesday,2045-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2046,2046-07-04,Wednesday,2046-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2047,2047-07-04,Thursday,2047-07-04,,,calendar
+independence-day,Independence Day (July 4th),federal,2048,2048-07-04,Saturday,2048-07-03,,,calendar
+independence-day,Independence Day (July 4th),federal,2049,2049-07-04,Sunday,2049-07-05,,,calendar
+independence-day,Independence Day (July 4th),federal,2050,2050-07-04,Monday,2050-07-04,,,calendar
+labor-day,Labor Day,federal,2011,2011-09-05,Monday,2011-09-05,,,opm calendar
+labor-day,Labor Day,federal,2012,2012-09-03,Monday,2012-09-03,,,opm calendar
+labor-day,Labor Day,federal,2013,2013-09-02,Monday,2013-09-02,,,opm calendar
+labor-day,Labor Day,federal,2014,2014-09-01,Monday,2014-09-01,,,opm calendar
+labor-day,Labor Day,federal,2015,2015-09-07,Monday,2015-09-07,,,opm calendar
+labor-day,Labor Day,federal,2016,2016-09-05,Monday,2016-09-05,,,opm calendar
+labor-day,Labor Day,federal,2017,2017-09-04,Monday,2017-09-04,,,opm calendar
+labor-day,Labor Day,federal,2018,2018-09-03,Monday,2018-09-03,,,opm calendar
+labor-day,Labor Day,federal,2019,2019-09-02,Monday,2019-09-02,,,opm calendar
+labor-day,Labor Day,federal,2020,2020-09-07,Monday,2020-09-07,,,opm calendar
+labor-day,Labor Day,federal,2021,2021-09-06,Monday,2021-09-06,,,opm calendar
+labor-day,Labor Day,federal,2022,2022-09-05,Monday,2022-09-05,,,opm calendar
+labor-day,Labor Day,federal,2023,2023-09-04,Monday,2023-09-04,,,opm calendar
+labor-day,Labor Day,federal,2024,2024-09-02,Monday,2024-09-02,,,opm calendar
+labor-day,Labor Day,federal,2025,2025-09-01,Monday,2025-09-01,,,opm calendar
+labor-day,Labor Day,federal,2026,2026-09-07,Monday,2026-09-07,,,opm calendar
+labor-day,Labor Day,federal,2027,2027-09-06,Monday,2027-09-06,,,opm calendar
+labor-day,Labor Day,federal,2028,2028-09-04,Monday,2028-09-04,,,opm calendar
+labor-day,Labor Day,federal,2029,2029-09-03,Monday,2029-09-03,,,opm calendar
+labor-day,Labor Day,federal,2030,2030-09-02,Monday,2030-09-02,,,opm calendar
+labor-day,Labor Day,federal,2031,2031-09-01,Monday,2031-09-01,,,calendar
+labor-day,Labor Day,federal,2032,2032-09-06,Monday,2032-09-06,,,calendar
+labor-day,Labor Day,federal,2033,2033-09-05,Monday,2033-09-05,,,calendar
+labor-day,Labor Day,federal,2034,2034-09-04,Monday,2034-09-04,,,calendar
+labor-day,Labor Day,federal,2035,2035-09-03,Monday,2035-09-03,,,calendar
+labor-day,Labor Day,federal,2036,2036-09-01,Monday,2036-09-01,,,calendar
+labor-day,Labor Day,federal,2037,2037-09-07,Monday,2037-09-07,,,calendar
+labor-day,Labor Day,federal,2038,2038-09-06,Monday,2038-09-06,,,calendar
+labor-day,Labor Day,federal,2039,2039-09-05,Monday,2039-09-05,,,calendar
+labor-day,Labor Day,federal,2040,2040-09-03,Monday,2040-09-03,,,calendar
+labor-day,Labor Day,federal,2041,2041-09-02,Monday,2041-09-02,,,calendar
+labor-day,Labor Day,federal,2042,2042-09-01,Monday,2042-09-01,,,calendar
+labor-day,Labor Day,federal,2043,2043-09-07,Monday,2043-09-07,,,calendar
+labor-day,Labor Day,federal,2044,2044-09-05,Monday,2044-09-05,,,calendar
+labor-day,Labor Day,federal,2045,2045-09-04,Monday,2045-09-04,,,calendar
+labor-day,Labor Day,federal,2046,2046-09-03,Monday,2046-09-03,,,calendar
+labor-day,Labor Day,federal,2047,2047-09-02,Monday,2047-09-02,,,calendar
+labor-day,Labor Day,federal,2048,2048-09-07,Monday,2048-09-07,,,calendar
+labor-day,Labor Day,federal,2049,2049-09-06,Monday,2049-09-06,,,calendar
+labor-day,Labor Day,federal,2050,2050-09-05,Monday,2050-09-05,,,calendar
+columbus-day,Columbus Day,federal,2011,2011-10-10,Monday,2011-10-10,,,opm calendar
+columbus-day,Columbus Day,federal,2012,2012-10-08,Monday,2012-10-08,,,opm calendar
+columbus-day,Columbus Day,federal,2013,2013-10-14,Monday,2013-10-14,,,opm calendar
+columbus-day,Columbus Day,federal,2014,2014-10-13,Monday,2014-10-13,,,opm calendar
+columbus-day,Columbus Day,federal,2015,2015-10-12,Monday,2015-10-12,,,opm calendar
+columbus-day,Columbus Day,federal,2016,2016-10-10,Monday,2016-10-10,,,opm calendar
+columbus-day,Columbus Day,federal,2017,2017-10-09,Monday,2017-10-09,,,opm calendar
+columbus-day,Columbus Day,federal,2018,2018-10-08,Monday,2018-10-08,,,opm calendar
+columbus-day,Columbus Day,federal,2019,2019-10-14,Monday,2019-10-14,,,opm calendar
+columbus-day,Columbus Day,federal,2020,2020-10-12,Monday,2020-10-12,,,opm calendar
+columbus-day,Columbus Day,federal,2021,2021-10-11,Monday,2021-10-11,,,opm calendar
+columbus-day,Columbus Day,federal,2022,2022-10-10,Monday,2022-10-10,,,opm calendar
+columbus-day,Columbus Day,federal,2023,2023-10-09,Monday,2023-10-09,,,opm calendar
+columbus-day,Columbus Day,federal,2024,2024-10-14,Monday,2024-10-14,,,opm calendar
+columbus-day,Columbus Day,federal,2025,2025-10-13,Monday,2025-10-13,,,opm calendar
+columbus-day,Columbus Day,federal,2026,2026-10-12,Monday,2026-10-12,,,opm calendar
+columbus-day,Columbus Day,federal,2027,2027-10-11,Monday,2027-10-11,,,opm calendar
+columbus-day,Columbus Day,federal,2028,2028-10-09,Monday,2028-10-09,,,opm calendar
+columbus-day,Columbus Day,federal,2029,2029-10-08,Monday,2029-10-08,,,opm calendar
+columbus-day,Columbus Day,federal,2030,2030-10-14,Monday,2030-10-14,,,opm calendar
+columbus-day,Columbus Day,federal,2031,2031-10-13,Monday,2031-10-13,,,calendar
+columbus-day,Columbus Day,federal,2032,2032-10-11,Monday,2032-10-11,,,calendar
+columbus-day,Columbus Day,federal,2033,2033-10-10,Monday,2033-10-10,,,calendar
+columbus-day,Columbus Day,federal,2034,2034-10-09,Monday,2034-10-09,,,calendar
+columbus-day,Columbus Day,federal,2035,2035-10-08,Monday,2035-10-08,,,calendar
+columbus-day,Columbus Day,federal,2036,2036-10-13,Monday,2036-10-13,,,calendar
+columbus-day,Columbus Day,federal,2037,2037-10-12,Monday,2037-10-12,,,calendar
+columbus-day,Columbus Day,federal,2038,2038-10-11,Monday,2038-10-11,,,calendar
+columbus-day,Columbus Day,federal,2039,2039-10-10,Monday,2039-10-10,,,calendar
+columbus-day,Columbus Day,federal,2040,2040-10-08,Monday,2040-10-08,,,calendar
+columbus-day,Columbus Day,federal,2041,2041-10-14,Monday,2041-10-14,,,calendar
+columbus-day,Columbus Day,federal,2042,2042-10-13,Monday,2042-10-13,,,calendar
+columbus-day,Columbus Day,federal,2043,2043-10-12,Monday,2043-10-12,,,calendar
+columbus-day,Columbus Day,federal,2044,2044-10-10,Monday,2044-10-10,,,calendar
+columbus-day,Columbus Day,federal,2045,2045-10-09,Monday,2045-10-09,,,calendar
+columbus-day,Columbus Day,federal,2046,2046-10-08,Monday,2046-10-08,,,calendar
+columbus-day,Columbus Day,federal,2047,2047-10-14,Monday,2047-10-14,,,calendar
+columbus-day,Columbus Day,federal,2048,2048-10-12,Monday,2048-10-12,,,calendar
+columbus-day,Columbus Day,federal,2049,2049-10-11,Monday,2049-10-11,,,calendar
+columbus-day,Columbus Day,federal,2050,2050-10-10,Monday,2050-10-10,,,calendar
+veterans-day,Veterans Day,federal,2011,2011-11-11,Friday,2011-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2012,2012-11-11,Sunday,2012-11-12,,,opm calendar
+veterans-day,Veterans Day,federal,2013,2013-11-11,Monday,2013-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2014,2014-11-11,Tuesday,2014-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2015,2015-11-11,Wednesday,2015-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2016,2016-11-11,Friday,2016-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2017,2017-11-11,Saturday,2017-11-10,,,opm calendar
+veterans-day,Veterans Day,federal,2018,2018-11-11,Sunday,2018-11-12,,,opm calendar
+veterans-day,Veterans Day,federal,2019,2019-11-11,Monday,2019-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2020,2020-11-11,Wednesday,2020-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2021,2021-11-11,Thursday,2021-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2022,2022-11-11,Friday,2022-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2023,2023-11-11,Saturday,2023-11-10,,,opm calendar
+veterans-day,Veterans Day,federal,2024,2024-11-11,Monday,2024-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2025,2025-11-11,Tuesday,2025-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2026,2026-11-11,Wednesday,2026-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2027,2027-11-11,Thursday,2027-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2028,2028-11-11,Saturday,2028-11-10,,,opm calendar
+veterans-day,Veterans Day,federal,2029,2029-11-11,Sunday,2029-11-12,,,opm calendar
+veterans-day,Veterans Day,federal,2030,2030-11-11,Monday,2030-11-11,,,opm calendar
+veterans-day,Veterans Day,federal,2031,2031-11-11,Tuesday,2031-11-11,,,calendar
+veterans-day,Veterans Day,federal,2032,2032-11-11,Thursday,2032-11-11,,,calendar
+veterans-day,Veterans Day,federal,2033,2033-11-11,Friday,2033-11-11,,,calendar
+veterans-day,Veterans Day,federal,2034,2034-11-11,Saturday,2034-11-10,,,calendar
+veterans-day,Veterans Day,federal,2035,2035-11-11,Sunday,2035-11-12,,,calendar
+veterans-day,Veterans Day,federal,2036,2036-11-11,Tuesday,2036-11-11,,,calendar
+veterans-day,Veterans Day,federal,2037,2037-11-11,Wednesday,2037-11-11,,,calendar
+veterans-day,Veterans Day,federal,2038,2038-11-11,Thursday,2038-11-11,,,calendar
+veterans-day,Veterans Day,federal,2039,2039-11-11,Friday,2039-11-11,,,calendar
+veterans-day,Veterans Day,federal,2040,2040-11-11,Sunday,2040-11-12,,,calendar
+veterans-day,Veterans Day,federal,2041,2041-11-11,Monday,2041-11-11,,,calendar
+veterans-day,Veterans Day,federal,2042,2042-11-11,Tuesday,2042-11-11,,,calendar
+veterans-day,Veterans Day,federal,2043,2043-11-11,Wednesday,2043-11-11,,,calendar
+veterans-day,Veterans Day,federal,2044,2044-11-11,Friday,2044-11-11,,,calendar
+veterans-day,Veterans Day,federal,2045,2045-11-11,Saturday,2045-11-10,,,calendar
+veterans-day,Veterans Day,federal,2046,2046-11-11,Sunday,2046-11-12,,,calendar
+veterans-day,Veterans Day,federal,2047,2047-11-11,Monday,2047-11-11,,,calendar
+veterans-day,Veterans Day,federal,2048,2048-11-11,Wednesday,2048-11-11,,,calendar
+veterans-day,Veterans Day,federal,2049,2049-11-11,Thursday,2049-11-11,,,calendar
+veterans-day,Veterans Day,federal,2050,2050-11-11,Friday,2050-11-11,,,calendar
+thanksgiving,Thanksgiving,federal,2011,2011-11-24,Thursday,2011-11-24,,,opm calendar
+thanksgiving,Thanksgiving,federal,2012,2012-11-22,Thursday,2012-11-22,,,opm calendar
+thanksgiving,Thanksgiving,federal,2013,2013-11-28,Thursday,2013-11-28,,,opm calendar
+thanksgiving,Thanksgiving,federal,2014,2014-11-27,Thursday,2014-11-27,,,opm calendar
+thanksgiving,Thanksgiving,federal,2015,2015-11-26,Thursday,2015-11-26,,,opm calendar
+thanksgiving,Thanksgiving,federal,2016,2016-11-24,Thursday,2016-11-24,,,opm calendar
+thanksgiving,Thanksgiving,federal,2017,2017-11-23,Thursday,2017-11-23,,,opm calendar
+thanksgiving,Thanksgiving,federal,2018,2018-11-22,Thursday,2018-11-22,,,opm calendar
+thanksgiving,Thanksgiving,federal,2019,2019-11-28,Thursday,2019-11-28,,,opm calendar
+thanksgiving,Thanksgiving,federal,2020,2020-11-26,Thursday,2020-11-26,,,opm calendar
+thanksgiving,Thanksgiving,federal,2021,2021-11-25,Thursday,2021-11-25,,,opm calendar
+thanksgiving,Thanksgiving,federal,2022,2022-11-24,Thursday,2022-11-24,,,opm calendar
+thanksgiving,Thanksgiving,federal,2023,2023-11-23,Thursday,2023-11-23,,,opm calendar
+thanksgiving,Thanksgiving,federal,2024,2024-11-28,Thursday,2024-11-28,,,opm calendar
+thanksgiving,Thanksgiving,federal,2025,2025-11-27,Thursday,2025-11-27,,,opm calendar
+thanksgiving,Thanksgiving,federal,2026,2026-11-26,Thursday,2026-11-26,,,opm calendar
+thanksgiving,Thanksgiving,federal,2027,2027-11-25,Thursday,2027-11-25,,,opm calendar
+thanksgiving,Thanksgiving,federal,2028,2028-11-23,Thursday,2028-11-23,,,opm calendar
+thanksgiving,Thanksgiving,federal,2029,2029-11-22,Thursday,2029-11-22,,,opm calendar
+thanksgiving,Thanksgiving,federal,2030,2030-11-28,Thursday,2030-11-28,,,opm calendar
+thanksgiving,Thanksgiving,federal,2031,2031-11-27,Thursday,2031-11-27,,,calendar
+thanksgiving,Thanksgiving,federal,2032,2032-11-25,Thursday,2032-11-25,,,calendar
+thanksgiving,Thanksgiving,federal,2033,2033-11-24,Thursday,2033-11-24,,,calendar
+thanksgiving,Thanksgiving,federal,2034,2034-11-23,Thursday,2034-11-23,,,calendar
+thanksgiving,Thanksgiving,federal,2035,2035-11-22,Thursday,2035-11-22,,,calendar
+thanksgiving,Thanksgiving,federal,2036,2036-11-27,Thursday,2036-11-27,,,calendar
+thanksgiving,Thanksgiving,federal,2037,2037-11-26,Thursday,2037-11-26,,,calendar
+thanksgiving,Thanksgiving,federal,2038,2038-11-25,Thursday,2038-11-25,,,calendar
+thanksgiving,Thanksgiving,federal,2039,2039-11-24,Thursday,2039-11-24,,,calendar
+thanksgiving,Thanksgiving,federal,2040,2040-11-22,Thursday,2040-11-22,,,calendar
+thanksgiving,Thanksgiving,federal,2041,2041-11-28,Thursday,2041-11-28,,,calendar
+thanksgiving,Thanksgiving,federal,2042,2042-11-27,Thursday,2042-11-27,,,calendar
+thanksgiving,Thanksgiving,federal,2043,2043-11-26,Thursday,2043-11-26,,,calendar
+thanksgiving,Thanksgiving,federal,2044,2044-11-24,Thursday,2044-11-24,,,calendar
+thanksgiving,Thanksgiving,federal,2045,2045-11-23,Thursday,2045-11-23,,,calendar
+thanksgiving,Thanksgiving,federal,2046,2046-11-22,Thursday,2046-11-22,,,calendar
+thanksgiving,Thanksgiving,federal,2047,2047-11-28,Thursday,2047-11-28,,,calendar
+thanksgiving,Thanksgiving,federal,2048,2048-11-26,Thursday,2048-11-26,,,calendar
+thanksgiving,Thanksgiving,federal,2049,2049-11-25,Thursday,2049-11-25,,,calendar
+thanksgiving,Thanksgiving,federal,2050,2050-11-24,Thursday,2050-11-24,,,calendar
+christmas,Christmas,federal,2011,2011-12-25,Sunday,2011-12-26,,,opm calendar
+christmas,Christmas,federal,2012,2012-12-25,Tuesday,2012-12-25,,,opm calendar
+christmas,Christmas,federal,2013,2013-12-25,Wednesday,2013-12-25,,,opm calendar
+christmas,Christmas,federal,2014,2014-12-25,Thursday,2014-12-25,,,opm calendar
+christmas,Christmas,federal,2015,2015-12-25,Friday,2015-12-25,,,opm calendar
+christmas,Christmas,federal,2016,2016-12-25,Sunday,2016-12-26,,,opm calendar
+christmas,Christmas,federal,2017,2017-12-25,Monday,2017-12-25,,,opm calendar
+christmas,Christmas,federal,2018,2018-12-25,Tuesday,2018-12-25,,,opm calendar
+christmas,Christmas,federal,2019,2019-12-25,Wednesday,2019-12-25,,,opm calendar
+christmas,Christmas,federal,2020,2020-12-25,Friday,2020-12-25,,,opm calendar
+christmas,Christmas,federal,2021,2021-12-25,Saturday,2021-12-24,,,opm calendar
+christmas,Christmas,federal,2022,2022-12-25,Sunday,2022-12-26,,,opm calendar
+christmas,Christmas,federal,2023,2023-12-25,Monday,2023-12-25,,,opm calendar
+christmas,Christmas,federal,2024,2024-12-25,Wednesday,2024-12-25,,,opm calendar
+christmas,Christmas,federal,2025,2025-12-25,Thursday,2025-12-25,,,opm calendar
+christmas,Christmas,federal,2026,2026-12-25,Friday,2026-12-25,,,opm calendar
+christmas,Christmas,federal,2027,2027-12-25,Saturday,2027-12-24,,,opm calendar
+christmas,Christmas,federal,2028,2028-12-25,Monday,2028-12-25,,,opm calendar
+christmas,Christmas,federal,2029,2029-12-25,Tuesday,2029-12-25,,,opm calendar
+christmas,Christmas,federal,2030,2030-12-25,Wednesday,2030-12-25,,,opm calendar
+christmas,Christmas,federal,2031,2031-12-25,Thursday,2031-12-25,,,calendar
+christmas,Christmas,federal,2032,2032-12-25,Saturday,2032-12-24,,,calendar
+christmas,Christmas,federal,2033,2033-12-25,Sunday,2033-12-26,,,calendar
+christmas,Christmas,federal,2034,2034-12-25,Monday,2034-12-25,,,calendar
+christmas,Christmas,federal,2035,2035-12-25,Tuesday,2035-12-25,,,calendar
+christmas,Christmas,federal,2036,2036-12-25,Thursday,2036-12-25,,,calendar
+christmas,Christmas,federal,2037,2037-12-25,Friday,2037-12-25,,,calendar
+christmas,Christmas,federal,2038,2038-12-25,Saturday,2038-12-24,,,calendar
+christmas,Christmas,federal,2039,2039-12-25,Sunday,2039-12-26,,,calendar
+christmas,Christmas,federal,2040,2040-12-25,Tuesday,2040-12-25,,,calendar
+christmas,Christmas,federal,2041,2041-12-25,Wednesday,2041-12-25,,,calendar
+christmas,Christmas,federal,2042,2042-12-25,Thursday,2042-12-25,,,calendar
+christmas,Christmas,federal,2043,2043-12-25,Friday,2043-12-25,,,calendar
+christmas,Christmas,federal,2044,2044-12-25,Sunday,2044-12-26,,,calendar
+christmas,Christmas,federal,2045,2045-12-25,Monday,2045-12-25,,,calendar
+christmas,Christmas,federal,2046,2046-12-25,Tuesday,2046-12-25,,,calendar
+christmas,Christmas,federal,2047,2047-12-25,Wednesday,2047-12-25,,,calendar
+christmas,Christmas,federal,2048,2048-12-25,Friday,2048-12-25,,,calendar
+christmas,Christmas,federal,2049,2049-12-25,Saturday,2049-12-24,,,calendar
+christmas,Christmas,federal,2050,2050-12-25,Sunday,2050-12-26,,,calendar
+ash-wednesday,Ash Wednesday,christian,1990,1990-02-28,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,1991,1991-02-13,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,1992,1992-03-04,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,1993,1993-02-24,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,1994,1994-02-16,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,1995,1995-03-01,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,1996,1996-02-21,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,1997,1997-02-12,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,1998,1998-02-25,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,1999,1999-02-17,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2000,2000-03-08,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2001,2001-02-28,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2002,2002-02-13,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2003,2003-03-05,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2004,2004-02-25,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2005,2005-02-09,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2006,2006-03-01,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2007,2007-02-21,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2008,2008-02-06,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2009,2009-02-25,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2010,2010-02-17,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2011,2011-03-09,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2012,2012-02-22,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2013,2013-02-13,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2014,2014-03-05,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2015,2015-02-18,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2016,2016-02-10,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2017,2017-03-01,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2018,2018-02-14,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2019,2019-03-06,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2020,2020-02-26,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2021,2021-02-17,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2022,2022-03-02,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2023,2023-02-22,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2024,2024-02-14,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2025,2025-03-05,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2026,2026-02-18,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2027,2027-02-10,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2028,2028-03-01,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2029,2029-02-14,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2030,2030-03-06,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2031,2031-02-26,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2032,2032-02-11,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2033,2033-03-02,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2034,2034-02-22,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2035,2035-02-07,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2036,2036-02-27,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2037,2037-02-18,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2038,2038-03-10,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2039,2039-02-23,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2040,2040-02-15,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2041,2041-03-06,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2042,2042-02-19,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2043,2043-02-11,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2044,2044-03-02,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2045,2045-02-22,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2046,2046-02-07,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2047,2047-02-27,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2048,2048-02-19,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2049,2049-03-03,Wednesday,,,,usno
+ash-wednesday,Ash Wednesday,christian,2050,2050-02-23,Wednesday,,,,usno
+palm-sunday,Palm Sunday,christian,1990,1990-04-08,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,1991,1991-03-24,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,1992,1992-04-12,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,1993,1993-04-04,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,1994,1994-03-27,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,1995,1995-04-09,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,1996,1996-03-31,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,1997,1997-03-23,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,1998,1998-04-05,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,1999,1999-03-28,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2000,2000-04-16,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2001,2001-04-08,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2002,2002-03-24,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2003,2003-04-13,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2004,2004-04-04,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2005,2005-03-20,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2006,2006-04-09,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2007,2007-04-01,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2008,2008-03-16,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2009,2009-04-05,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2010,2010-03-28,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2011,2011-04-17,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2012,2012-04-01,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2013,2013-03-24,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2014,2014-04-13,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2015,2015-03-29,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2016,2016-03-20,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2017,2017-04-09,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2018,2018-03-25,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2019,2019-04-14,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2020,2020-04-05,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2021,2021-03-28,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2022,2022-04-10,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2023,2023-04-02,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2024,2024-03-24,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2025,2025-04-13,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2026,2026-03-29,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2027,2027-03-21,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2028,2028-04-09,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2029,2029-03-25,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2030,2030-04-14,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2031,2031-04-06,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2032,2032-03-21,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2033,2033-04-10,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2034,2034-04-02,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2035,2035-03-18,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2036,2036-04-06,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2037,2037-03-29,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2038,2038-04-18,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2039,2039-04-03,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2040,2040-03-25,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2041,2041-04-14,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2042,2042-03-30,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2043,2043-03-22,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2044,2044-04-10,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2045,2045-04-02,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2046,2046-03-18,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2047,2047-04-07,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2048,2048-03-29,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2049,2049-04-11,Sunday,,,,usno
+palm-sunday,Palm Sunday,christian,2050,2050-04-03,Sunday,,,,usno
+good-friday,Good Friday,christian,1990,1990-04-13,Friday,,,,usno
+good-friday,Good Friday,christian,1991,1991-03-29,Friday,,,,usno
+good-friday,Good Friday,christian,1992,1992-04-17,Friday,,,,usno
+good-friday,Good Friday,christian,1993,1993-04-09,Friday,,,,usno
+good-friday,Good Friday,christian,1994,1994-04-01,Friday,,,,usno
+good-friday,Good Friday,christian,1995,1995-04-14,Friday,,,,usno
+good-friday,Good Friday,christian,1996,1996-04-05,Friday,,,,usno
+good-friday,Good Friday,christian,1997,1997-03-28,Friday,,,,usno
+good-friday,Good Friday,christian,1998,1998-04-10,Friday,,,,usno
+good-friday,Good Friday,christian,1999,1999-04-02,Friday,,,,usno
+good-friday,Good Friday,christian,2000,2000-04-21,Friday,,,,usno
+good-friday,Good Friday,christian,2001,2001-04-13,Friday,,,,usno
+good-friday,Good Friday,christian,2002,2002-03-29,Friday,,,,usno
+good-friday,Good Friday,christian,2003,2003-04-18,Friday,,,,usno
+good-friday,Good Friday,christian,2004,2004-04-09,Friday,,,,usno
+good-friday,Good Friday,christian,2005,2005-03-25,Friday,,,,usno
+good-friday,Good Friday,christian,2006,2006-04-14,Friday,,,,usno
+good-friday,Good Friday,christian,2007,2007-04-06,Friday,,,,usno
+good-friday,Good Friday,christian,2008,2008-03-21,Friday,,,,usno
+good-friday,Good Friday,christian,2009,2009-04-10,Friday,,,,usno
+good-friday,Good Friday,christian,2010,2010-04-02,Friday,,,,usno
+good-friday,Good Friday,christian,2011,2011-04-22,Friday,,,,usno
+good-friday,Good Friday,christian,2012,2012-04-06,Friday,,,,usno
+good-friday,Good Friday,christian,2013,2013-03-29,Friday,,,,usno
+good-friday,Good Friday,christian,2014,2014-04-18,Friday,,,,usno
+good-friday,Good Friday,christian,2015,2015-04-03,Friday,,,,usno
+good-friday,Good Friday,christian,2016,2016-03-25,Friday,,,,usno
+good-friday,Good Friday,christian,2017,2017-04-14,Friday,,,,usno
+good-friday,Good Friday,christian,2018,2018-03-30,Friday,,,,usno
+good-friday,Good Friday,christian,2019,2019-04-19,Friday,,,,usno
+good-friday,Good Friday,christian,2020,2020-04-10,Friday,,,,usno
+good-friday,Good Friday,christian,2021,2021-04-02,Friday,,,,usno
+good-friday,Good Friday,christian,2022,2022-04-15,Friday,,,,usno
+good-friday,Good Friday,christian,2023,2023-04-07,Friday,,,,usno
+good-friday,Good Friday,christian,2024,2024-03-29,Friday,,,,usno
+good-friday,Good Friday,christian,2025,2025-04-18,Friday,,,,usno
+good-friday,Good Friday,christian,2026,2026-04-03,Friday,,,,usno
+good-friday,Good Friday,christian,2027,2027-03-26,Friday,,,,usno
+good-friday,Good Friday,christian,2028,2028-04-14,Friday,,,,usno
+good-friday,Good Friday,christian,2029,2029-03-30,Friday,,,,usno
+good-friday,Good Friday,christian,2030,2030-04-19,Friday,,,,usno
+good-friday,Good Friday,christian,2031,2031-04-11,Friday,,,,usno
+good-friday,Good Friday,christian,2032,2032-03-26,Friday,,,,usno
+good-friday,Good Friday,christian,2033,2033-04-15,Friday,,,,usno
+good-friday,Good Friday,christian,2034,2034-04-07,Friday,,,,usno
+good-friday,Good Friday,christian,2035,2035-03-23,Friday,,,,usno
+good-friday,Good Friday,christian,2036,2036-04-11,Friday,,,,usno
+good-friday,Good Friday,christian,2037,2037-04-03,Friday,,,,usno
+good-friday,Good Friday,christian,2038,2038-04-23,Friday,,,,usno
+good-friday,Good Friday,christian,2039,2039-04-08,Friday,,,,usno
+good-friday,Good Friday,christian,2040,2040-03-30,Friday,,,,usno
+good-friday,Good Friday,christian,2041,2041-04-19,Friday,,,,usno
+good-friday,Good Friday,christian,2042,2042-04-04,Friday,,,,usno
+good-friday,Good Friday,christian,2043,2043-03-27,Friday,,,,usno
+good-friday,Good Friday,christian,2044,2044-04-15,Friday,,,,usno
+good-friday,Good Friday,christian,2045,2045-04-07,Friday,,,,usno
+good-friday,Good Friday,christian,2046,2046-03-23,Friday,,,,usno
+good-friday,Good Friday,christian,2047,2047-04-12,Friday,,,,usno
+good-friday,Good Friday,christian,2048,2048-04-03,Friday,,,,usno
+good-friday,Good Friday,christian,2049,2049-04-16,Friday,,,,usno
+good-friday,Good Friday,christian,2050,2050-04-08,Friday,,,,usno
+easter,Easter,christian,1990,1990-04-15,Sunday,,,,usno census
+easter,Easter,christian,1991,1991-03-31,Sunday,,,,usno census
+easter,Easter,christian,1992,1992-04-19,Sunday,,,,usno census
+easter,Easter,christian,1993,1993-04-11,Sunday,,,,usno census
+easter,Easter,christian,1994,1994-04-03,Sunday,,,,usno census
+easter,Easter,christian,1995,1995-04-16,Sunday,,,,usno census
+easter,Easter,christian,1996,1996-04-07,Sunday,,,,usno census
+easter,Easter,christian,1997,1997-03-30,Sunday,,,,usno census
+easter,Easter,christian,1998,1998-04-12,Sunday,,,,usno census
+easter,Easter,christian,1999,1999-04-04,Sunday,,,,usno census
+easter,Easter,christian,2000,2000-04-23,Sunday,,,,usno census
+easter,Easter,christian,2001,2001-04-15,Sunday,,,,usno census
+easter,Easter,christian,2002,2002-03-31,Sunday,,,,usno census
+easter,Easter,christian,2003,2003-04-20,Sunday,,,,usno census
+easter,Easter,christian,2004,2004-04-11,Sunday,,,,usno census
+easter,Easter,christian,2005,2005-03-27,Sunday,,,,usno census
+easter,Easter,christian,2006,2006-04-16,Sunday,,,,usno census
+easter,Easter,christian,2007,2007-04-08,Sunday,,,,usno census
+easter,Easter,christian,2008,2008-03-23,Sunday,,,,usno census
+easter,Easter,christian,2009,2009-04-12,Sunday,,,,usno census
+easter,Easter,christian,2010,2010-04-04,Sunday,,,,usno census
+easter,Easter,christian,2011,2011-04-24,Sunday,,,,usno census
+easter,Easter,christian,2012,2012-04-08,Sunday,,,,usno census
+easter,Easter,christian,2013,2013-03-31,Sunday,,,,usno census
+easter,Easter,christian,2014,2014-04-20,Sunday,,,,usno census
+easter,Easter,christian,2015,2015-04-05,Sunday,,,,usno census
+easter,Easter,christian,2016,2016-03-27,Sunday,,,,usno census
+easter,Easter,christian,2017,2017-04-16,Sunday,,,,usno census
+easter,Easter,christian,2018,2018-04-01,Sunday,,,,usno census
+easter,Easter,christian,2019,2019-04-21,Sunday,,,,usno census
+easter,Easter,christian,2020,2020-04-12,Sunday,,,,usno census
+easter,Easter,christian,2021,2021-04-04,Sunday,,,,usno census
+easter,Easter,christian,2022,2022-04-17,Sunday,,,,usno census
+easter,Easter,christian,2023,2023-04-09,Sunday,,,,usno census
+easter,Easter,christian,2024,2024-03-31,Sunday,,,,usno census
+easter,Easter,christian,2025,2025-04-20,Sunday,,,,usno census
+easter,Easter,christian,2026,2026-04-05,Sunday,,,,usno census
+easter,Easter,christian,2027,2027-03-28,Sunday,,,,usno census
+easter,Easter,christian,2028,2028-04-16,Sunday,,,,usno census
+easter,Easter,christian,2029,2029-04-01,Sunday,,,,usno census
+easter,Easter,christian,2030,2030-04-21,Sunday,,,,usno census
+easter,Easter,christian,2031,2031-04-13,Sunday,,,,usno census
+easter,Easter,christian,2032,2032-03-28,Sunday,,,,usno census
+easter,Easter,christian,2033,2033-04-17,Sunday,,,,usno census
+easter,Easter,christian,2034,2034-04-09,Sunday,,,,usno census
+easter,Easter,christian,2035,2035-03-25,Sunday,,,,usno census
+easter,Easter,christian,2036,2036-04-13,Sunday,,,,usno census
+easter,Easter,christian,2037,2037-04-05,Sunday,,,,usno census
+easter,Easter,christian,2038,2038-04-25,Sunday,,,,usno census
+easter,Easter,christian,2039,2039-04-10,Sunday,,,,usno census
+easter,Easter,christian,2040,2040-04-01,Sunday,,,,usno census
+easter,Easter,christian,2041,2041-04-21,Sunday,,,,usno census
+easter,Easter,christian,2042,2042-04-06,Sunday,,,,usno census
+easter,Easter,christian,2043,2043-03-29,Sunday,,,,usno census
+easter,Easter,christian,2044,2044-04-17,Sunday,,,,usno census
+easter,Easter,christian,2045,2045-04-09,Sunday,,,,usno census
+easter,Easter,christian,2046,2046-03-25,Sunday,,,,usno census
+easter,Easter,christian,2047,2047-04-14,Sunday,,,,usno census
+easter,Easter,christian,2048,2048-04-05,Sunday,,,,usno census
+easter,Easter,christian,2049,2049-04-18,Sunday,,,,usno census
+easter,Easter,christian,2050,2050-04-10,Sunday,,,,usno census
+ascension-day,Ascension Day,christian,1990,1990-05-24,Thursday,,,,usno
+ascension-day,Ascension Day,christian,1991,1991-05-09,Thursday,,,,usno
+ascension-day,Ascension Day,christian,1992,1992-05-28,Thursday,,,,usno
+ascension-day,Ascension Day,christian,1993,1993-05-20,Thursday,,,,usno
+ascension-day,Ascension Day,christian,1994,1994-05-12,Thursday,,,,usno
+ascension-day,Ascension Day,christian,1995,1995-05-25,Thursday,,,,usno
+ascension-day,Ascension Day,christian,1996,1996-05-16,Thursday,,,,usno
+ascension-day,Ascension Day,christian,1997,1997-05-08,Thursday,,,,usno
+ascension-day,Ascension Day,christian,1998,1998-05-21,Thursday,,,,usno
+ascension-day,Ascension Day,christian,1999,1999-05-13,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2000,2000-06-01,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2001,2001-05-24,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2002,2002-05-09,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2003,2003-05-29,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2004,2004-05-20,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2005,2005-05-05,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2006,2006-05-25,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2007,2007-05-17,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2008,2008-05-01,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2009,2009-05-21,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2010,2010-05-13,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2011,2011-06-02,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2012,2012-05-17,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2013,2013-05-09,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2014,2014-05-29,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2015,2015-05-14,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2016,2016-05-05,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2017,2017-05-25,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2018,2018-05-10,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2019,2019-05-30,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2020,2020-05-21,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2021,2021-05-13,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2022,2022-05-26,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2023,2023-05-18,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2024,2024-05-09,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2025,2025-05-29,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2026,2026-05-14,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2027,2027-05-06,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2028,2028-05-25,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2029,2029-05-10,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2030,2030-05-30,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2031,2031-05-22,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2032,2032-05-06,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2033,2033-05-26,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2034,2034-05-18,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2035,2035-05-03,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2036,2036-05-22,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2037,2037-05-14,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2038,2038-06-03,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2039,2039-05-19,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2040,2040-05-10,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2041,2041-05-30,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2042,2042-05-15,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2043,2043-05-07,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2044,2044-05-26,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2045,2045-05-18,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2046,2046-05-03,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2047,2047-05-23,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2048,2048-05-14,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2049,2049-05-27,Thursday,,,,usno
+ascension-day,Ascension Day,christian,2050,2050-05-19,Thursday,,,,usno
+pentecost,Pentecost,christian,1990,1990-06-03,Sunday,,,,usno
+pentecost,Pentecost,christian,1991,1991-05-19,Sunday,,,,usno
+pentecost,Pentecost,christian,1992,1992-06-07,Sunday,,,,usno
+pentecost,Pentecost,christian,1993,1993-05-30,Sunday,,,,usno
+pentecost,Pentecost,christian,1994,1994-05-22,Sunday,,,,usno
+pentecost,Pentecost,christian,1995,1995-06-04,Sunday,,,,usno
+pentecost,Pentecost,christian,1996,1996-05-26,Sunday,,,,usno
+pentecost,Pentecost,christian,1997,1997-05-18,Sunday,,,,usno
+pentecost,Pentecost,christian,1998,1998-05-31,Sunday,,,,usno
+pentecost,Pentecost,christian,1999,1999-05-23,Sunday,,,,usno
+pentecost,Pentecost,christian,2000,2000-06-11,Sunday,,,,usno
+pentecost,Pentecost,christian,2001,2001-06-03,Sunday,,,,usno
+pentecost,Pentecost,christian,2002,2002-05-19,Sunday,,,,usno
+pentecost,Pentecost,christian,2003,2003-06-08,Sunday,,,,usno
+pentecost,Pentecost,christian,2004,2004-05-30,Sunday,,,,usno
+pentecost,Pentecost,christian,2005,2005-05-15,Sunday,,,,usno
+pentecost,Pentecost,christian,2006,2006-06-04,Sunday,,,,usno
+pentecost,Pentecost,christian,2007,2007-05-27,Sunday,,,,usno
+pentecost,Pentecost,christian,2008,2008-05-11,Sunday,,,,usno
+pentecost,Pentecost,christian,2009,2009-05-31,Sunday,,,,usno
+pentecost,Pentecost,christian,2010,2010-05-23,Sunday,,,,usno
+pentecost,Pentecost,christian,2011,2011-06-12,Sunday,,,,usno
+pentecost,Pentecost,christian,2012,2012-05-27,Sunday,,,,usno
+pentecost,Pentecost,christian,2013,2013-05-19,Sunday,,,,usno
+pentecost,Pentecost,christian,2014,2014-06-08,Sunday,,,,usno
+pentecost,Pentecost,christian,2015,2015-05-24,Sunday,,,,usno
+pentecost,Pentecost,christian,2016,2016-05-15,Sunday,,,,usno
+pentecost,Pentecost,christian,2017,2017-06-04,Sunday,,,,usno
+pentecost,Pentecost,christian,2018,2018-05-20,Sunday,,,,usno
+pentecost,Pentecost,christian,2019,2019-06-09,Sunday,,,,usno
+pentecost,Pentecost,christian,2020,2020-05-31,Sunday,,,,usno
+pentecost,Pentecost,christian,2021,2021-05-23,Sunday,,,,usno
+pentecost,Pentecost,christian,2022,2022-06-05,Sunday,,,,usno
+pentecost,Pentecost,christian,2023,2023-05-28,Sunday,,,,usno
+pentecost,Pentecost,christian,2024,2024-05-19,Sunday,,,,usno
+pentecost,Pentecost,christian,2025,2025-06-08,Sunday,,,,usno
+pentecost,Pentecost,christian,2026,2026-05-24,Sunday,,,,usno
+pentecost,Pentecost,christian,2027,2027-05-16,Sunday,,,,usno
+pentecost,Pentecost,christian,2028,2028-06-04,Sunday,,,,usno
+pentecost,Pentecost,christian,2029,2029-05-20,Sunday,,,,usno
+pentecost,Pentecost,christian,2030,2030-06-09,Sunday,,,,usno
+pentecost,Pentecost,christian,2031,2031-06-01,Sunday,,,,usno
+pentecost,Pentecost,christian,2032,2032-05-16,Sunday,,,,usno
+pentecost,Pentecost,christian,2033,2033-06-05,Sunday,,,,usno
+pentecost,Pentecost,christian,2034,2034-05-28,Sunday,,,,usno
+pentecost,Pentecost,christian,2035,2035-05-13,Sunday,,,,usno
+pentecost,Pentecost,christian,2036,2036-06-01,Sunday,,,,usno
+pentecost,Pentecost,christian,2037,2037-05-24,Sunday,,,,usno
+pentecost,Pentecost,christian,2038,2038-06-13,Sunday,,,,usno
+pentecost,Pentecost,christian,2039,2039-05-29,Sunday,,,,usno
+pentecost,Pentecost,christian,2040,2040-05-20,Sunday,,,,usno
+pentecost,Pentecost,christian,2041,2041-06-09,Sunday,,,,usno
+pentecost,Pentecost,christian,2042,2042-05-25,Sunday,,,,usno
+pentecost,Pentecost,christian,2043,2043-05-17,Sunday,,,,usno
+pentecost,Pentecost,christian,2044,2044-06-05,Sunday,,,,usno
+pentecost,Pentecost,christian,2045,2045-05-28,Sunday,,,,usno
+pentecost,Pentecost,christian,2046,2046-05-13,Sunday,,,,usno
+pentecost,Pentecost,christian,2047,2047-06-02,Sunday,,,,usno
+pentecost,Pentecost,christian,2048,2048-05-24,Sunday,,,,usno
+pentecost,Pentecost,christian,2049,2049-06-06,Sunday,,,,usno
+pentecost,Pentecost,christian,2050,2050-05-29,Sunday,,,,usno
+advent,Advent,christian,1990,1990-12-02,Sunday,,,,usno
+advent,Advent,christian,1991,1991-12-01,Sunday,,,,usno
+advent,Advent,christian,1992,1992-11-29,Sunday,,,,usno
+advent,Advent,christian,1993,1993-11-28,Sunday,,,,usno
+advent,Advent,christian,1994,1994-11-27,Sunday,,,,usno
+advent,Advent,christian,1995,1995-12-03,Sunday,,,,usno
+advent,Advent,christian,1996,1996-12-01,Sunday,,,,usno
+advent,Advent,christian,1997,1997-11-30,Sunday,,,,usno
+advent,Advent,christian,1998,1998-11-29,Sunday,,,,usno
+advent,Advent,christian,1999,1999-11-28,Sunday,,,,usno
+advent,Advent,christian,2000,2000-12-03,Sunday,,,,usno
+advent,Advent,christian,2001,2001-12-02,Sunday,,,,usno
+advent,Advent,christian,2002,2002-12-01,Sunday,,,,usno
+advent,Advent,christian,2003,2003-11-30,Sunday,,,,usno
+advent,Advent,christian,2004,2004-11-28,Sunday,,,,usno
+advent,Advent,christian,2005,2005-11-27,Sunday,,,,usno
+advent,Advent,christian,2006,2006-12-03,Sunday,,,,usno
+advent,Advent,christian,2007,2007-12-02,Sunday,,,,usno
+advent,Advent,christian,2008,2008-11-30,Sunday,,,,usno
+advent,Advent,christian,2009,2009-11-29,Sunday,,,,usno
+advent,Advent,christian,2010,2010-11-28,Sunday,,,,usno
+advent,Advent,christian,2011,2011-11-27,Sunday,,,,usno
+advent,Advent,christian,2012,2012-12-02,Sunday,,,,usno
+advent,Advent,christian,2013,2013-12-01,Sunday,,,,usno
+advent,Advent,christian,2014,2014-11-30,Sunday,,,,usno
+advent,Advent,christian,2015,2015-11-29,Sunday,,,,usno
+advent,Advent,christian,2016,2016-11-27,Sunday,,,,usno
+advent,Advent,christian,2017,2017-12-03,Sunday,,,,usno
+advent,Advent,christian,2018,2018-12-02,Sunday,,,,usno
+advent,Advent,christian,2019,2019-12-01,Sunday,,,,usno
+advent,Advent,christian,2020,2020-11-29,Sunday,,,,usno
+advent,Advent,christian,2021,2021-11-28,Sunday,,,,usno
+advent,Advent,christian,2022,2022-11-27,Sunday,,,,usno
+advent,Advent,christian,2023,2023-12-03,Sunday,,,,usno
+advent,Advent,christian,2024,2024-12-01,Sunday,,,,usno
+advent,Advent,christian,2025,2025-11-30,Sunday,,,,usno
+advent,Advent,christian,2026,2026-11-29,Sunday,,,,usno
+advent,Advent,christian,2027,2027-11-28,Sunday,,,,usno
+advent,Advent,christian,2028,2028-12-03,Sunday,,,,usno
+advent,Advent,christian,2029,2029-12-02,Sunday,,,,usno
+advent,Advent,christian,2030,2030-12-01,Sunday,,,,usno
+advent,Advent,christian,2031,2031-11-30,Sunday,,,,usno
+advent,Advent,christian,2032,2032-11-28,Sunday,,,,usno
+advent,Advent,christian,2033,2033-11-27,Sunday,,,,usno
+advent,Advent,christian,2034,2034-12-03,Sunday,,,,usno
+advent,Advent,christian,2035,2035-12-02,Sunday,,,,usno
+advent,Advent,christian,2036,2036-11-30,Sunday,,,,usno
+advent,Advent,christian,2037,2037-11-29,Sunday,,,,usno
+advent,Advent,christian,2038,2038-11-28,Sunday,,,,usno
+advent,Advent,christian,2039,2039-11-27,Sunday,,,,usno
+advent,Advent,christian,2040,2040-12-02,Sunday,,,,usno
+advent,Advent,christian,2041,2041-12-01,Sunday,,,,usno
+advent,Advent,christian,2042,2042-11-30,Sunday,,,,usno
+advent,Advent,christian,2043,2043-11-29,Sunday,,,,usno
+advent,Advent,christian,2044,2044-11-27,Sunday,,,,usno
+advent,Advent,christian,2045,2045-12-03,Sunday,,,,usno
+advent,Advent,christian,2046,2046-12-02,Sunday,,,,usno
+advent,Advent,christian,2047,2047-12-01,Sunday,,,,usno
+advent,Advent,christian,2048,2048-11-29,Sunday,,,,usno
+advent,Advent,christian,2049,2049-11-28,Sunday,,,,usno
+advent,Advent,christian,2050,2050-11-27,Sunday,,,,usno
+orthodox-easter,Orthodox Easter,christian,2026,2026-04-12,Sunday,,,,oca
+orthodox-easter,Orthodox Easter,christian,2027,2027-05-02,Sunday,,,,oca
+orthodox-easter,Orthodox Easter,christian,2028,2028-04-16,Sunday,,,,oca
+orthodox-easter,Orthodox Easter,christian,2029,2029-04-08,Sunday,,,,oca
+orthodox-easter,Orthodox Easter,christian,2030,2030-04-28,Sunday,,,,oca
+purim,Purim,jewish,1990,1990-03-11,Sunday,,1990-03-10,1990-03-11,hebcal
+purim,Purim,jewish,1991,1991-02-28,Thursday,,1991-02-27,1991-02-28,hebcal
+purim,Purim,jewish,1992,1992-03-19,Thursday,,1992-03-18,1992-03-19,hebcal
+purim,Purim,jewish,1993,1993-03-07,Sunday,,1993-03-06,1993-03-07,hebcal
+purim,Purim,jewish,1994,1994-02-25,Friday,,1994-02-24,1994-02-25,hebcal
+purim,Purim,jewish,1995,1995-03-16,Thursday,,1995-03-15,1995-03-16,hebcal
+purim,Purim,jewish,1996,1996-03-05,Tuesday,,1996-03-04,1996-03-05,hebcal
+purim,Purim,jewish,1997,1997-03-23,Sunday,,1997-03-22,1997-03-23,hebcal
+purim,Purim,jewish,1998,1998-03-12,Thursday,,1998-03-11,1998-03-12,hebcal
+purim,Purim,jewish,1999,1999-03-02,Tuesday,,1999-03-01,1999-03-02,hebcal
+purim,Purim,jewish,2000,2000-03-21,Tuesday,,2000-03-20,2000-03-21,hebcal
+purim,Purim,jewish,2001,2001-03-09,Friday,,2001-03-08,2001-03-09,hebcal
+purim,Purim,jewish,2002,2002-02-26,Tuesday,,2002-02-25,2002-02-26,hebcal
+purim,Purim,jewish,2003,2003-03-18,Tuesday,,2003-03-17,2003-03-18,hebcal
+purim,Purim,jewish,2004,2004-03-07,Sunday,,2004-03-06,2004-03-07,hebcal
+purim,Purim,jewish,2005,2005-03-25,Friday,,2005-03-24,2005-03-25,hebcal
+purim,Purim,jewish,2006,2006-03-14,Tuesday,,2006-03-13,2006-03-14,hebcal
+purim,Purim,jewish,2007,2007-03-04,Sunday,,2007-03-03,2007-03-04,hebcal
+purim,Purim,jewish,2008,2008-03-21,Friday,,2008-03-20,2008-03-21,hebcal
+purim,Purim,jewish,2009,2009-03-10,Tuesday,,2009-03-09,2009-03-10,hebcal
+purim,Purim,jewish,2010,2010-02-28,Sunday,,2010-02-27,2010-02-28,hebcal
+purim,Purim,jewish,2011,2011-03-20,Sunday,,2011-03-19,2011-03-20,hebcal
+purim,Purim,jewish,2012,2012-03-08,Thursday,,2012-03-07,2012-03-08,hebcal
+purim,Purim,jewish,2013,2013-02-24,Sunday,,2013-02-23,2013-02-24,hebcal
+purim,Purim,jewish,2014,2014-03-16,Sunday,,2014-03-15,2014-03-16,hebcal
+purim,Purim,jewish,2015,2015-03-05,Thursday,,2015-03-04,2015-03-05,hebcal
+purim,Purim,jewish,2016,2016-03-24,Thursday,,2016-03-23,2016-03-24,hebcal
+purim,Purim,jewish,2017,2017-03-12,Sunday,,2017-03-11,2017-03-12,hebcal
+purim,Purim,jewish,2018,2018-03-01,Thursday,,2018-02-28,2018-03-01,hebcal
+purim,Purim,jewish,2019,2019-03-21,Thursday,,2019-03-20,2019-03-21,hebcal
+purim,Purim,jewish,2020,2020-03-10,Tuesday,,2020-03-09,2020-03-10,hebcal
+purim,Purim,jewish,2021,2021-02-26,Friday,,2021-02-25,2021-02-26,hebcal
+purim,Purim,jewish,2022,2022-03-17,Thursday,,2022-03-16,2022-03-17,hebcal
+purim,Purim,jewish,2023,2023-03-07,Tuesday,,2023-03-06,2023-03-07,hebcal
+purim,Purim,jewish,2024,2024-03-24,Sunday,,2024-03-23,2024-03-24,hebcal
+purim,Purim,jewish,2025,2025-03-14,Friday,,2025-03-13,2025-03-14,hebcal
+purim,Purim,jewish,2026,2026-03-03,Tuesday,,2026-03-02,2026-03-03,hebcal
+purim,Purim,jewish,2027,2027-03-23,Tuesday,,2027-03-22,2027-03-23,hebcal
+purim,Purim,jewish,2028,2028-03-12,Sunday,,2028-03-11,2028-03-12,hebcal
+purim,Purim,jewish,2029,2029-03-01,Thursday,,2029-02-28,2029-03-01,hebcal
+purim,Purim,jewish,2030,2030-03-19,Tuesday,,2030-03-18,2030-03-19,hebcal
+purim,Purim,jewish,2031,2031-03-09,Sunday,,2031-03-08,2031-03-09,hebcal
+purim,Purim,jewish,2032,2032-02-26,Thursday,,2032-02-25,2032-02-26,hebcal
+purim,Purim,jewish,2033,2033-03-15,Tuesday,,2033-03-14,2033-03-15,hebcal
+purim,Purim,jewish,2034,2034-03-05,Sunday,,2034-03-04,2034-03-05,hebcal
+purim,Purim,jewish,2035,2035-03-25,Sunday,,2035-03-24,2035-03-25,hebcal
+purim,Purim,jewish,2036,2036-03-13,Thursday,,2036-03-12,2036-03-13,hebcal
+purim,Purim,jewish,2037,2037-03-01,Sunday,,2037-02-28,2037-03-01,hebcal
+purim,Purim,jewish,2038,2038-03-21,Sunday,,2038-03-20,2038-03-21,hebcal
+purim,Purim,jewish,2039,2039-03-10,Thursday,,2039-03-09,2039-03-10,hebcal
+purim,Purim,jewish,2040,2040-02-28,Tuesday,,2040-02-27,2040-02-28,hebcal
+purim,Purim,jewish,2041,2041-03-17,Sunday,,2041-03-16,2041-03-17,hebcal
+purim,Purim,jewish,2042,2042-03-06,Thursday,,2042-03-05,2042-03-06,hebcal
+purim,Purim,jewish,2043,2043-03-26,Thursday,,2043-03-25,2043-03-26,hebcal
+purim,Purim,jewish,2044,2044-03-13,Sunday,,2044-03-12,2044-03-13,hebcal
+purim,Purim,jewish,2045,2045-03-03,Friday,,2045-03-02,2045-03-03,hebcal
+purim,Purim,jewish,2046,2046-03-22,Thursday,,2046-03-21,2046-03-22,hebcal
+purim,Purim,jewish,2047,2047-03-12,Tuesday,,2047-03-11,2047-03-12,hebcal
+purim,Purim,jewish,2048,2048-02-28,Friday,,2048-02-27,2048-02-28,hebcal
+purim,Purim,jewish,2049,2049-03-18,Thursday,,2049-03-17,2049-03-18,hebcal
+purim,Purim,jewish,2050,2050-03-08,Tuesday,,2050-03-07,2050-03-08,hebcal
+passover,Passover,jewish,1990,1990-04-10,Tuesday,,1990-04-09,1990-04-17,usno hebcal
+passover,Passover,jewish,1991,1991-03-30,Saturday,,1991-03-29,1991-04-06,usno hebcal
+passover,Passover,jewish,1992,1992-04-18,Saturday,,1992-04-17,1992-04-25,usno hebcal
+passover,Passover,jewish,1993,1993-04-06,Tuesday,,1993-04-05,1993-04-13,usno hebcal
+passover,Passover,jewish,1994,1994-03-27,Sunday,,1994-03-26,1994-04-03,usno hebcal
+passover,Passover,jewish,1995,1995-04-15,Saturday,,1995-04-14,1995-04-22,usno hebcal
+passover,Passover,jewish,1996,1996-04-04,Thursday,,1996-04-03,1996-04-11,usno hebcal
+passover,Passover,jewish,1997,1997-04-22,Tuesday,,1997-04-21,1997-04-29,usno hebcal
+passover,Passover,jewish,1998,1998-04-11,Saturday,,1998-04-10,1998-04-18,usno hebcal
+passover,Passover,jewish,1999,1999-04-01,Thursday,,1999-03-31,1999-04-08,usno hebcal
+passover,Passover,jewish,2000,2000-04-20,Thursday,,2000-04-19,2000-04-27,usno hebcal
+passover,Passover,jewish,2001,2001-04-08,Sunday,,2001-04-07,2001-04-15,usno hebcal
+passover,Passover,jewish,2002,2002-03-28,Thursday,,2002-03-27,2002-04-04,usno hebcal
+passover,Passover,jewish,2003,2003-04-17,Thursday,,2003-04-16,2003-04-24,usno hebcal
+passover,Passover,jewish,2004,2004-04-06,Tuesday,,2004-04-05,2004-04-13,usno hebcal
+passover,Passover,jewish,2005,2005-04-24,Sunday,,2005-04-23,2005-05-01,usno hebcal
+passover,Passover,jewish,2006,2006-04-13,Thursday,,2006-04-12,2006-04-20,usno hebcal
+passover,Passover,jewish,2007,2007-04-03,Tuesday,,2007-04-02,2007-04-10,usno hebcal
+passover,Passover,jewish,2008,2008-04-20,Sunday,,2008-04-19,2008-04-27,usno hebcal
+passover,Passover,jewish,2009,2009-04-09,Thursday,,2009-04-08,2009-04-16,usno hebcal
+passover,Passover,jewish,2010,2010-03-30,Tuesday,,2010-03-29,2010-04-06,usno hebcal
+passover,Passover,jewish,2011,2011-04-19,Tuesday,,2011-04-18,2011-04-26,usno hebcal
+passover,Passover,jewish,2012,2012-04-07,Saturday,,2012-04-06,2012-04-14,usno hebcal
+passover,Passover,jewish,2013,2013-03-26,Tuesday,,2013-03-25,2013-04-02,usno hebcal
+passover,Passover,jewish,2014,2014-04-15,Tuesday,,2014-04-14,2014-04-22,usno hebcal
+passover,Passover,jewish,2015,2015-04-04,Saturday,,2015-04-03,2015-04-11,usno hebcal
+passover,Passover,jewish,2016,2016-04-23,Saturday,,2016-04-22,2016-04-30,usno hebcal
+passover,Passover,jewish,2017,2017-04-11,Tuesday,,2017-04-10,2017-04-18,usno hebcal
+passover,Passover,jewish,2018,2018-03-31,Saturday,,2018-03-30,2018-04-07,usno hebcal
+passover,Passover,jewish,2019,2019-04-20,Saturday,,2019-04-19,2019-04-27,usno hebcal
+passover,Passover,jewish,2020,2020-04-09,Thursday,,2020-04-08,2020-04-16,usno hebcal
+passover,Passover,jewish,2021,2021-03-28,Sunday,,2021-03-27,2021-04-04,usno hebcal
+passover,Passover,jewish,2022,2022-04-16,Saturday,,2022-04-15,2022-04-23,usno hebcal
+passover,Passover,jewish,2023,2023-04-06,Thursday,,2023-04-05,2023-04-13,usno hebcal
+passover,Passover,jewish,2024,2024-04-23,Tuesday,,2024-04-22,2024-04-30,usno hebcal
+passover,Passover,jewish,2025,2025-04-13,Sunday,,2025-04-12,2025-04-20,usno hebcal
+passover,Passover,jewish,2026,2026-04-02,Thursday,,2026-04-01,2026-04-09,usno hebcal
+passover,Passover,jewish,2027,2027-04-22,Thursday,,2027-04-21,2027-04-29,usno hebcal
+passover,Passover,jewish,2028,2028-04-11,Tuesday,,2028-04-10,2028-04-18,usno hebcal
+passover,Passover,jewish,2029,2029-03-31,Saturday,,2029-03-30,2029-04-07,usno hebcal
+passover,Passover,jewish,2030,2030-04-18,Thursday,,2030-04-17,2030-04-25,usno hebcal
+passover,Passover,jewish,2031,2031-04-08,Tuesday,,2031-04-07,2031-04-15,usno hebcal
+passover,Passover,jewish,2032,2032-03-27,Saturday,,2032-03-26,2032-04-03,usno hebcal
+passover,Passover,jewish,2033,2033-04-14,Thursday,,2033-04-13,2033-04-21,usno hebcal
+passover,Passover,jewish,2034,2034-04-04,Tuesday,,2034-04-03,2034-04-11,usno hebcal
+passover,Passover,jewish,2035,2035-04-24,Tuesday,,2035-04-23,2035-05-01,usno hebcal
+passover,Passover,jewish,2036,2036-04-12,Saturday,,2036-04-11,2036-04-19,usno hebcal
+passover,Passover,jewish,2037,2037-03-31,Tuesday,,2037-03-30,2037-04-07,usno hebcal
+passover,Passover,jewish,2038,2038-04-20,Tuesday,,2038-04-19,2038-04-27,usno hebcal
+passover,Passover,jewish,2039,2039-04-09,Saturday,,2039-04-08,2039-04-16,usno hebcal
+passover,Passover,jewish,2040,2040-03-29,Thursday,,2040-03-28,2040-04-05,usno hebcal
+passover,Passover,jewish,2041,2041-04-16,Tuesday,,2041-04-15,2041-04-23,usno hebcal
+passover,Passover,jewish,2042,2042-04-05,Saturday,,2042-04-04,2042-04-12,usno hebcal
+passover,Passover,jewish,2043,2043-04-25,Saturday,,2043-04-24,2043-05-02,usno hebcal
+passover,Passover,jewish,2044,2044-04-12,Tuesday,,2044-04-11,2044-04-19,usno hebcal
+passover,Passover,jewish,2045,2045-04-02,Sunday,,2045-04-01,2045-04-09,usno hebcal
+passover,Passover,jewish,2046,2046-04-21,Saturday,,2046-04-20,2046-04-28,usno hebcal
+passover,Passover,jewish,2047,2047-04-11,Thursday,,2047-04-10,2047-04-18,usno hebcal
+passover,Passover,jewish,2048,2048-03-29,Sunday,,2048-03-28,2048-04-05,usno hebcal
+passover,Passover,jewish,2049,2049-04-17,Saturday,,2049-04-16,2049-04-24,usno hebcal
+passover,Passover,jewish,2050,2050-04-07,Thursday,,2050-04-06,2050-04-14,usno hebcal
+shavuot,Shavuot,jewish,1990,1990-05-30,Wednesday,,1990-05-29,1990-05-31,usno hebcal
+shavuot,Shavuot,jewish,1991,1991-05-19,Sunday,,1991-05-18,1991-05-20,usno hebcal
+shavuot,Shavuot,jewish,1992,1992-06-07,Sunday,,1992-06-06,1992-06-08,usno hebcal
+shavuot,Shavuot,jewish,1993,1993-05-26,Wednesday,,1993-05-25,1993-05-27,usno hebcal
+shavuot,Shavuot,jewish,1994,1994-05-16,Monday,,1994-05-15,1994-05-17,usno hebcal
+shavuot,Shavuot,jewish,1995,1995-06-04,Sunday,,1995-06-03,1995-06-05,usno hebcal
+shavuot,Shavuot,jewish,1996,1996-05-24,Friday,,1996-05-23,1996-05-25,usno hebcal
+shavuot,Shavuot,jewish,1997,1997-06-11,Wednesday,,1997-06-10,1997-06-12,usno hebcal
+shavuot,Shavuot,jewish,1998,1998-05-31,Sunday,,1998-05-30,1998-06-01,usno hebcal
+shavuot,Shavuot,jewish,1999,1999-05-21,Friday,,1999-05-20,1999-05-22,usno hebcal
+shavuot,Shavuot,jewish,2000,2000-06-09,Friday,,2000-06-08,2000-06-10,usno hebcal
+shavuot,Shavuot,jewish,2001,2001-05-28,Monday,,2001-05-27,2001-05-29,usno hebcal
+shavuot,Shavuot,jewish,2002,2002-05-17,Friday,,2002-05-16,2002-05-18,usno hebcal
+shavuot,Shavuot,jewish,2003,2003-06-06,Friday,,2003-06-05,2003-06-07,usno hebcal
+shavuot,Shavuot,jewish,2004,2004-05-26,Wednesday,,2004-05-25,2004-05-27,usno hebcal
+shavuot,Shavuot,jewish,2005,2005-06-13,Monday,,2005-06-12,2005-06-14,usno hebcal
+shavuot,Shavuot,jewish,2006,2006-06-02,Friday,,2006-06-01,2006-06-03,usno hebcal
+shavuot,Shavuot,jewish,2007,2007-05-23,Wednesday,,2007-05-22,2007-05-24,usno hebcal
+shavuot,Shavuot,jewish,2008,2008-06-09,Monday,,2008-06-08,2008-06-10,usno hebcal
+shavuot,Shavuot,jewish,2009,2009-05-29,Friday,,2009-05-28,2009-05-30,usno hebcal
+shavuot,Shavuot,jewish,2010,2010-05-19,Wednesday,,2010-05-18,2010-05-20,usno hebcal
+shavuot,Shavuot,jewish,2011,2011-06-08,Wednesday,,2011-06-07,2011-06-09,usno hebcal
+shavuot,Shavuot,jewish,2012,2012-05-27,Sunday,,2012-05-26,2012-05-28,usno hebcal
+shavuot,Shavuot,jewish,2013,2013-05-15,Wednesday,,2013-05-14,2013-05-16,usno hebcal
+shavuot,Shavuot,jewish,2014,2014-06-04,Wednesday,,2014-06-03,2014-06-05,usno hebcal
+shavuot,Shavuot,jewish,2015,2015-05-24,Sunday,,2015-05-23,2015-05-25,usno hebcal
+shavuot,Shavuot,jewish,2016,2016-06-12,Sunday,,2016-06-11,2016-06-13,usno hebcal
+shavuot,Shavuot,jewish,2017,2017-05-31,Wednesday,,2017-05-30,2017-06-01,usno hebcal
+shavuot,Shavuot,jewish,2018,2018-05-20,Sunday,,2018-05-19,2018-05-21,usno hebcal
+shavuot,Shavuot,jewish,2019,2019-06-09,Sunday,,2019-06-08,2019-06-10,usno hebcal
+shavuot,Shavuot,jewish,2020,2020-05-29,Friday,,2020-05-28,2020-05-30,usno hebcal
+shavuot,Shavuot,jewish,2021,2021-05-17,Monday,,2021-05-16,2021-05-18,usno hebcal
+shavuot,Shavuot,jewish,2022,2022-06-05,Sunday,,2022-06-04,2022-06-06,usno hebcal
+shavuot,Shavuot,jewish,2023,2023-05-26,Friday,,2023-05-25,2023-05-27,usno hebcal
+shavuot,Shavuot,jewish,2024,2024-06-12,Wednesday,,2024-06-11,2024-06-13,usno hebcal
+shavuot,Shavuot,jewish,2025,2025-06-02,Monday,,2025-06-01,2025-06-03,usno hebcal
+shavuot,Shavuot,jewish,2026,2026-05-22,Friday,,2026-05-21,2026-05-23,usno hebcal
+shavuot,Shavuot,jewish,2027,2027-06-11,Friday,,2027-06-10,2027-06-12,usno hebcal
+shavuot,Shavuot,jewish,2028,2028-05-31,Wednesday,,2028-05-30,2028-06-01,usno hebcal
+shavuot,Shavuot,jewish,2029,2029-05-20,Sunday,,2029-05-19,2029-05-21,usno hebcal
+shavuot,Shavuot,jewish,2030,2030-06-07,Friday,,2030-06-06,2030-06-08,usno hebcal
+shavuot,Shavuot,jewish,2031,2031-05-28,Wednesday,,2031-05-27,2031-05-29,usno hebcal
+shavuot,Shavuot,jewish,2032,2032-05-16,Sunday,,2032-05-15,2032-05-17,usno hebcal
+shavuot,Shavuot,jewish,2033,2033-06-03,Friday,,2033-06-02,2033-06-04,usno hebcal
+shavuot,Shavuot,jewish,2034,2034-05-24,Wednesday,,2034-05-23,2034-05-25,usno hebcal
+shavuot,Shavuot,jewish,2035,2035-06-13,Wednesday,,2035-06-12,2035-06-14,usno hebcal
+shavuot,Shavuot,jewish,2036,2036-06-01,Sunday,,2036-05-31,2036-06-02,usno hebcal
+shavuot,Shavuot,jewish,2037,2037-05-20,Wednesday,,2037-05-19,2037-05-21,usno hebcal
+shavuot,Shavuot,jewish,2038,2038-06-09,Wednesday,,2038-06-08,2038-06-10,usno hebcal
+shavuot,Shavuot,jewish,2039,2039-05-29,Sunday,,2039-05-28,2039-05-30,usno hebcal
+shavuot,Shavuot,jewish,2040,2040-05-18,Friday,,2040-05-17,2040-05-19,usno hebcal
+shavuot,Shavuot,jewish,2041,2041-06-05,Wednesday,,2041-06-04,2041-06-06,usno hebcal
+shavuot,Shavuot,jewish,2042,2042-05-25,Sunday,,2042-05-24,2042-05-26,usno hebcal
+shavuot,Shavuot,jewish,2043,2043-06-14,Sunday,,2043-06-13,2043-06-15,usno hebcal
+shavuot,Shavuot,jewish,2044,2044-06-01,Wednesday,,2044-05-31,2044-06-02,usno hebcal
+shavuot,Shavuot,jewish,2045,2045-05-22,Monday,,2045-05-21,2045-05-23,usno hebcal
+shavuot,Shavuot,jewish,2046,2046-06-10,Sunday,,2046-06-09,2046-06-11,usno hebcal
+shavuot,Shavuot,jewish,2047,2047-05-31,Friday,,2047-05-30,2047-06-01,usno hebcal
+shavuot,Shavuot,jewish,2048,2048-05-18,Monday,,2048-05-17,2048-05-19,usno hebcal
+shavuot,Shavuot,jewish,2049,2049-06-06,Sunday,,2049-06-05,2049-06-07,usno hebcal
+shavuot,Shavuot,jewish,2050,2050-05-27,Friday,,2050-05-26,2050-05-28,usno hebcal
+tisha-bav,Tisha B'Av,jewish,1990,1990-07-31,Tuesday,,1990-07-30,1990-07-31,hebcal
+tisha-bav,Tisha B'Av,jewish,1991,1991-07-21,Sunday,,1991-07-20,1991-07-21,hebcal
+tisha-bav,Tisha B'Av,jewish,1992,1992-08-09,Sunday,,1992-08-08,1992-08-09,hebcal
+tisha-bav,Tisha B'Av,jewish,1993,1993-07-27,Tuesday,,1993-07-26,1993-07-27,hebcal
+tisha-bav,Tisha B'Av,jewish,1994,1994-07-17,Sunday,,1994-07-16,1994-07-17,hebcal
+tisha-bav,Tisha B'Av,jewish,1995,1995-08-06,Sunday,,1995-08-05,1995-08-06,hebcal
+tisha-bav,Tisha B'Av,jewish,1996,1996-07-25,Thursday,,1996-07-24,1996-07-25,hebcal
+tisha-bav,Tisha B'Av,jewish,1997,1997-08-12,Tuesday,,1997-08-11,1997-08-12,hebcal
+tisha-bav,Tisha B'Av,jewish,1998,1998-08-02,Sunday,,1998-08-01,1998-08-02,hebcal
+tisha-bav,Tisha B'Av,jewish,1999,1999-07-22,Thursday,,1999-07-21,1999-07-22,hebcal
+tisha-bav,Tisha B'Av,jewish,2000,2000-08-10,Thursday,,2000-08-09,2000-08-10,hebcal
+tisha-bav,Tisha B'Av,jewish,2001,2001-07-29,Sunday,,2001-07-28,2001-07-29,hebcal
+tisha-bav,Tisha B'Av,jewish,2002,2002-07-18,Thursday,,2002-07-17,2002-07-18,hebcal
+tisha-bav,Tisha B'Av,jewish,2003,2003-08-07,Thursday,,2003-08-06,2003-08-07,hebcal
+tisha-bav,Tisha B'Av,jewish,2004,2004-07-27,Tuesday,,2004-07-26,2004-07-27,hebcal
+tisha-bav,Tisha B'Av,jewish,2005,2005-08-14,Sunday,,2005-08-13,2005-08-14,hebcal
+tisha-bav,Tisha B'Av,jewish,2006,2006-08-03,Thursday,,2006-08-02,2006-08-03,hebcal
+tisha-bav,Tisha B'Av,jewish,2007,2007-07-24,Tuesday,,2007-07-23,2007-07-24,hebcal
+tisha-bav,Tisha B'Av,jewish,2008,2008-08-10,Sunday,,2008-08-09,2008-08-10,hebcal
+tisha-bav,Tisha B'Av,jewish,2009,2009-07-30,Thursday,,2009-07-29,2009-07-30,hebcal
+tisha-bav,Tisha B'Av,jewish,2010,2010-07-20,Tuesday,,2010-07-19,2010-07-20,hebcal
+tisha-bav,Tisha B'Av,jewish,2011,2011-08-09,Tuesday,,2011-08-08,2011-08-09,hebcal
+tisha-bav,Tisha B'Av,jewish,2012,2012-07-29,Sunday,,2012-07-28,2012-07-29,hebcal
+tisha-bav,Tisha B'Av,jewish,2013,2013-07-16,Tuesday,,2013-07-15,2013-07-16,hebcal
+tisha-bav,Tisha B'Av,jewish,2014,2014-08-05,Tuesday,,2014-08-04,2014-08-05,hebcal
+tisha-bav,Tisha B'Av,jewish,2015,2015-07-26,Sunday,,2015-07-25,2015-07-26,hebcal
+tisha-bav,Tisha B'Av,jewish,2016,2016-08-14,Sunday,,2016-08-13,2016-08-14,hebcal
+tisha-bav,Tisha B'Av,jewish,2017,2017-08-01,Tuesday,,2017-07-31,2017-08-01,hebcal
+tisha-bav,Tisha B'Av,jewish,2018,2018-07-22,Sunday,,2018-07-21,2018-07-22,hebcal
+tisha-bav,Tisha B'Av,jewish,2019,2019-08-11,Sunday,,2019-08-10,2019-08-11,hebcal
+tisha-bav,Tisha B'Av,jewish,2020,2020-07-30,Thursday,,2020-07-29,2020-07-30,hebcal
+tisha-bav,Tisha B'Av,jewish,2021,2021-07-18,Sunday,,2021-07-17,2021-07-18,hebcal
+tisha-bav,Tisha B'Av,jewish,2022,2022-08-07,Sunday,,2022-08-06,2022-08-07,hebcal
+tisha-bav,Tisha B'Av,jewish,2023,2023-07-27,Thursday,,2023-07-26,2023-07-27,hebcal
+tisha-bav,Tisha B'Av,jewish,2024,2024-08-13,Tuesday,,2024-08-12,2024-08-13,hebcal
+tisha-bav,Tisha B'Av,jewish,2025,2025-08-03,Sunday,,2025-08-02,2025-08-03,hebcal
+tisha-bav,Tisha B'Av,jewish,2026,2026-07-23,Thursday,,2026-07-22,2026-07-23,hebcal
+tisha-bav,Tisha B'Av,jewish,2027,2027-08-12,Thursday,,2027-08-11,2027-08-12,hebcal
+tisha-bav,Tisha B'Av,jewish,2028,2028-08-01,Tuesday,,2028-07-31,2028-08-01,hebcal
+tisha-bav,Tisha B'Av,jewish,2029,2029-07-22,Sunday,,2029-07-21,2029-07-22,hebcal
+tisha-bav,Tisha B'Av,jewish,2030,2030-08-08,Thursday,,2030-08-07,2030-08-08,hebcal
+tisha-bav,Tisha B'Av,jewish,2031,2031-07-29,Tuesday,,2031-07-28,2031-07-29,hebcal
+tisha-bav,Tisha B'Av,jewish,2032,2032-07-18,Sunday,,2032-07-17,2032-07-18,hebcal
+tisha-bav,Tisha B'Av,jewish,2033,2033-08-04,Thursday,,2033-08-03,2033-08-04,hebcal
+tisha-bav,Tisha B'Av,jewish,2034,2034-07-25,Tuesday,,2034-07-24,2034-07-25,hebcal
+tisha-bav,Tisha B'Av,jewish,2035,2035-08-14,Tuesday,,2035-08-13,2035-08-14,hebcal
+tisha-bav,Tisha B'Av,jewish,2036,2036-08-03,Sunday,,2036-08-02,2036-08-03,hebcal
+tisha-bav,Tisha B'Av,jewish,2037,2037-07-21,Tuesday,,2037-07-20,2037-07-21,hebcal
+tisha-bav,Tisha B'Av,jewish,2038,2038-08-10,Tuesday,,2038-08-09,2038-08-10,hebcal
+tisha-bav,Tisha B'Av,jewish,2039,2039-07-31,Sunday,,2039-07-30,2039-07-31,hebcal
+tisha-bav,Tisha B'Av,jewish,2040,2040-07-19,Thursday,,2040-07-18,2040-07-19,hebcal
+tisha-bav,Tisha B'Av,jewish,2041,2041-08-06,Tuesday,,2041-08-05,2041-08-06,hebcal
+tisha-bav,Tisha B'Av,jewish,2042,2042-07-27,Sunday,,2042-07-26,2042-07-27,hebcal
+tisha-bav,Tisha B'Av,jewish,2043,2043-08-16,Sunday,,2043-08-15,2043-08-16,hebcal
+tisha-bav,Tisha B'Av,jewish,2044,2044-08-02,Tuesday,,2044-08-01,2044-08-02,hebcal
+tisha-bav,Tisha B'Av,jewish,2045,2045-07-23,Sunday,,2045-07-22,2045-07-23,hebcal
+tisha-bav,Tisha B'Av,jewish,2046,2046-08-12,Sunday,,2046-08-11,2046-08-12,hebcal
+tisha-bav,Tisha B'Av,jewish,2047,2047-08-01,Thursday,,2047-07-31,2047-08-01,hebcal
+tisha-bav,Tisha B'Av,jewish,2048,2048-07-19,Sunday,,2048-07-18,2048-07-19,hebcal
+tisha-bav,Tisha B'Av,jewish,2049,2049-08-08,Sunday,,2049-08-07,2049-08-08,hebcal
+tisha-bav,Tisha B'Av,jewish,2050,2050-07-28,Thursday,,2050-07-27,2050-07-28,hebcal
+rosh-hashanah,Rosh Hashanah,jewish,1990,1990-09-20,Thursday,,1990-09-19,1990-09-21,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,1991,1991-09-09,Monday,,1991-09-08,1991-09-10,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,1992,1992-09-28,Monday,,1992-09-27,1992-09-29,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,1993,1993-09-16,Thursday,,1993-09-15,1993-09-17,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,1994,1994-09-06,Tuesday,,1994-09-05,1994-09-07,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,1995,1995-09-25,Monday,,1995-09-24,1995-09-26,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,1996,1996-09-14,Saturday,,1996-09-13,1996-09-15,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,1997,1997-10-02,Thursday,,1997-10-01,1997-10-03,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,1998,1998-09-21,Monday,,1998-09-20,1998-09-22,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,1999,1999-09-11,Saturday,,1999-09-10,1999-09-12,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2000,2000-09-30,Saturday,,2000-09-29,2000-10-01,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2001,2001-09-18,Tuesday,,2001-09-17,2001-09-19,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2002,2002-09-07,Saturday,,2002-09-06,2002-09-08,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2003,2003-09-27,Saturday,,2003-09-26,2003-09-28,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2004,2004-09-16,Thursday,,2004-09-15,2004-09-17,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2005,2005-10-04,Tuesday,,2005-10-03,2005-10-05,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2006,2006-09-23,Saturday,,2006-09-22,2006-09-24,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2007,2007-09-13,Thursday,,2007-09-12,2007-09-14,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2008,2008-09-30,Tuesday,,2008-09-29,2008-10-01,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2009,2009-09-19,Saturday,,2009-09-18,2009-09-20,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2010,2010-09-09,Thursday,,2010-09-08,2010-09-10,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2011,2011-09-29,Thursday,,2011-09-28,2011-09-30,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2012,2012-09-17,Monday,,2012-09-16,2012-09-18,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2013,2013-09-05,Thursday,,2013-09-04,2013-09-06,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2014,2014-09-25,Thursday,,2014-09-24,2014-09-26,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2015,2015-09-14,Monday,,2015-09-13,2015-09-15,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2016,2016-10-03,Monday,,2016-10-02,2016-10-04,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2017,2017-09-21,Thursday,,2017-09-20,2017-09-22,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2018,2018-09-10,Monday,,2018-09-09,2018-09-11,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2019,2019-09-30,Monday,,2019-09-29,2019-10-01,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2020,2020-09-19,Saturday,,2020-09-18,2020-09-20,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2021,2021-09-07,Tuesday,,2021-09-06,2021-09-08,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2022,2022-09-26,Monday,,2022-09-25,2022-09-27,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2023,2023-09-16,Saturday,,2023-09-15,2023-09-17,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2024,2024-10-03,Thursday,,2024-10-02,2024-10-04,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2025,2025-09-23,Tuesday,,2025-09-22,2025-09-24,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2026,2026-09-12,Saturday,,2026-09-11,2026-09-13,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2027,2027-10-02,Saturday,,2027-10-01,2027-10-03,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2028,2028-09-21,Thursday,,2028-09-20,2028-09-22,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2029,2029-09-10,Monday,,2029-09-09,2029-09-11,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2030,2030-09-28,Saturday,,2030-09-27,2030-09-29,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2031,2031-09-18,Thursday,,2031-09-17,2031-09-19,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2032,2032-09-06,Monday,,2032-09-05,2032-09-07,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2033,2033-09-24,Saturday,,2033-09-23,2033-09-25,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2034,2034-09-14,Thursday,,2034-09-13,2034-09-15,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2035,2035-10-04,Thursday,,2035-10-03,2035-10-05,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2036,2036-09-22,Monday,,2036-09-21,2036-09-23,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2037,2037-09-10,Thursday,,2037-09-09,2037-09-11,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2038,2038-09-30,Thursday,,2038-09-29,2038-10-01,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2039,2039-09-19,Monday,,2039-09-18,2039-09-20,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2040,2040-09-08,Saturday,,2040-09-07,2040-09-09,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2041,2041-09-26,Thursday,,2041-09-25,2041-09-27,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2042,2042-09-15,Monday,,2042-09-14,2042-09-16,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2043,2043-10-05,Monday,,2043-10-04,2043-10-06,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2044,2044-09-22,Thursday,,2044-09-21,2044-09-23,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2045,2045-09-12,Tuesday,,2045-09-11,2045-09-13,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2046,2046-10-01,Monday,,2046-09-30,2046-10-02,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2047,2047-09-21,Saturday,,2047-09-20,2047-09-22,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2048,2048-09-08,Tuesday,,2048-09-07,2048-09-09,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2049,2049-09-27,Monday,,2049-09-26,2049-09-28,usno hebcal
+rosh-hashanah,Rosh Hashanah,jewish,2050,2050-09-17,Saturday,,2050-09-16,2050-09-18,usno hebcal
+yom-kippur,Yom Kippur,jewish,1990,1990-09-29,Saturday,,1990-09-28,1990-09-29,usno hebcal
+yom-kippur,Yom Kippur,jewish,1991,1991-09-18,Wednesday,,1991-09-17,1991-09-18,usno hebcal
+yom-kippur,Yom Kippur,jewish,1992,1992-10-07,Wednesday,,1992-10-06,1992-10-07,usno hebcal
+yom-kippur,Yom Kippur,jewish,1993,1993-09-25,Saturday,,1993-09-24,1993-09-25,usno hebcal
+yom-kippur,Yom Kippur,jewish,1994,1994-09-15,Thursday,,1994-09-14,1994-09-15,usno hebcal
+yom-kippur,Yom Kippur,jewish,1995,1995-10-04,Wednesday,,1995-10-03,1995-10-04,usno hebcal
+yom-kippur,Yom Kippur,jewish,1996,1996-09-23,Monday,,1996-09-22,1996-09-23,usno hebcal
+yom-kippur,Yom Kippur,jewish,1997,1997-10-11,Saturday,,1997-10-10,1997-10-11,usno hebcal
+yom-kippur,Yom Kippur,jewish,1998,1998-09-30,Wednesday,,1998-09-29,1998-09-30,usno hebcal
+yom-kippur,Yom Kippur,jewish,1999,1999-09-20,Monday,,1999-09-19,1999-09-20,usno hebcal
+yom-kippur,Yom Kippur,jewish,2000,2000-10-09,Monday,,2000-10-08,2000-10-09,usno hebcal
+yom-kippur,Yom Kippur,jewish,2001,2001-09-27,Thursday,,2001-09-26,2001-09-27,usno hebcal
+yom-kippur,Yom Kippur,jewish,2002,2002-09-16,Monday,,2002-09-15,2002-09-16,usno hebcal
+yom-kippur,Yom Kippur,jewish,2003,2003-10-06,Monday,,2003-10-05,2003-10-06,usno hebcal
+yom-kippur,Yom Kippur,jewish,2004,2004-09-25,Saturday,,2004-09-24,2004-09-25,usno hebcal
+yom-kippur,Yom Kippur,jewish,2005,2005-10-13,Thursday,,2005-10-12,2005-10-13,usno hebcal
+yom-kippur,Yom Kippur,jewish,2006,2006-10-02,Monday,,2006-10-01,2006-10-02,usno hebcal
+yom-kippur,Yom Kippur,jewish,2007,2007-09-22,Saturday,,2007-09-21,2007-09-22,usno hebcal
+yom-kippur,Yom Kippur,jewish,2008,2008-10-09,Thursday,,2008-10-08,2008-10-09,usno hebcal
+yom-kippur,Yom Kippur,jewish,2009,2009-09-28,Monday,,2009-09-27,2009-09-28,usno hebcal
+yom-kippur,Yom Kippur,jewish,2010,2010-09-18,Saturday,,2010-09-17,2010-09-18,usno hebcal
+yom-kippur,Yom Kippur,jewish,2011,2011-10-08,Saturday,,2011-10-07,2011-10-08,usno hebcal
+yom-kippur,Yom Kippur,jewish,2012,2012-09-26,Wednesday,,2012-09-25,2012-09-26,usno hebcal
+yom-kippur,Yom Kippur,jewish,2013,2013-09-14,Saturday,,2013-09-13,2013-09-14,usno hebcal
+yom-kippur,Yom Kippur,jewish,2014,2014-10-04,Saturday,,2014-10-03,2014-10-04,usno hebcal
+yom-kippur,Yom Kippur,jewish,2015,2015-09-23,Wednesday,,2015-09-22,2015-09-23,usno hebcal
+yom-kippur,Yom Kippur,jewish,2016,2016-10-12,Wednesday,,2016-10-11,2016-10-12,usno hebcal
+yom-kippur,Yom Kippur,jewish,2017,2017-09-30,Saturday,,2017-09-29,2017-09-30,usno hebcal
+yom-kippur,Yom Kippur,jewish,2018,2018-09-19,Wednesday,,2018-09-18,2018-09-19,usno hebcal
+yom-kippur,Yom Kippur,jewish,2019,2019-10-09,Wednesday,,2019-10-08,2019-10-09,usno hebcal
+yom-kippur,Yom Kippur,jewish,2020,2020-09-28,Monday,,2020-09-27,2020-09-28,usno hebcal
+yom-kippur,Yom Kippur,jewish,2021,2021-09-16,Thursday,,2021-09-15,2021-09-16,usno hebcal
+yom-kippur,Yom Kippur,jewish,2022,2022-10-05,Wednesday,,2022-10-04,2022-10-05,usno hebcal
+yom-kippur,Yom Kippur,jewish,2023,2023-09-25,Monday,,2023-09-24,2023-09-25,usno hebcal
+yom-kippur,Yom Kippur,jewish,2024,2024-10-12,Saturday,,2024-10-11,2024-10-12,usno hebcal
+yom-kippur,Yom Kippur,jewish,2025,2025-10-02,Thursday,,2025-10-01,2025-10-02,usno hebcal
+yom-kippur,Yom Kippur,jewish,2026,2026-09-21,Monday,,2026-09-20,2026-09-21,usno hebcal
+yom-kippur,Yom Kippur,jewish,2027,2027-10-11,Monday,,2027-10-10,2027-10-11,usno hebcal
+yom-kippur,Yom Kippur,jewish,2028,2028-09-30,Saturday,,2028-09-29,2028-09-30,usno hebcal
+yom-kippur,Yom Kippur,jewish,2029,2029-09-19,Wednesday,,2029-09-18,2029-09-19,usno hebcal
+yom-kippur,Yom Kippur,jewish,2030,2030-10-07,Monday,,2030-10-06,2030-10-07,usno hebcal
+yom-kippur,Yom Kippur,jewish,2031,2031-09-27,Saturday,,2031-09-26,2031-09-27,usno hebcal
+yom-kippur,Yom Kippur,jewish,2032,2032-09-15,Wednesday,,2032-09-14,2032-09-15,usno hebcal
+yom-kippur,Yom Kippur,jewish,2033,2033-10-03,Monday,,2033-10-02,2033-10-03,usno hebcal
+yom-kippur,Yom Kippur,jewish,2034,2034-09-23,Saturday,,2034-09-22,2034-09-23,usno hebcal
+yom-kippur,Yom Kippur,jewish,2035,2035-10-13,Saturday,,2035-10-12,2035-10-13,usno hebcal
+yom-kippur,Yom Kippur,jewish,2036,2036-10-01,Wednesday,,2036-09-30,2036-10-01,usno hebcal
+yom-kippur,Yom Kippur,jewish,2037,2037-09-19,Saturday,,2037-09-18,2037-09-19,usno hebcal
+yom-kippur,Yom Kippur,jewish,2038,2038-10-09,Saturday,,2038-10-08,2038-10-09,usno hebcal
+yom-kippur,Yom Kippur,jewish,2039,2039-09-28,Wednesday,,2039-09-27,2039-09-28,usno hebcal
+yom-kippur,Yom Kippur,jewish,2040,2040-09-17,Monday,,2040-09-16,2040-09-17,usno hebcal
+yom-kippur,Yom Kippur,jewish,2041,2041-10-05,Saturday,,2041-10-04,2041-10-05,usno hebcal
+yom-kippur,Yom Kippur,jewish,2042,2042-09-24,Wednesday,,2042-09-23,2042-09-24,usno hebcal
+yom-kippur,Yom Kippur,jewish,2043,2043-10-14,Wednesday,,2043-10-13,2043-10-14,usno hebcal
+yom-kippur,Yom Kippur,jewish,2044,2044-10-01,Saturday,,2044-09-30,2044-10-01,usno hebcal
+yom-kippur,Yom Kippur,jewish,2045,2045-09-21,Thursday,,2045-09-20,2045-09-21,usno hebcal
+yom-kippur,Yom Kippur,jewish,2046,2046-10-10,Wednesday,,2046-10-09,2046-10-10,usno hebcal
+yom-kippur,Yom Kippur,jewish,2047,2047-09-30,Monday,,2047-09-29,2047-09-30,usno hebcal
+yom-kippur,Yom Kippur,jewish,2048,2048-09-17,Thursday,,2048-09-16,2048-09-17,usno hebcal
+yom-kippur,Yom Kippur,jewish,2049,2049-10-06,Wednesday,,2049-10-05,2049-10-06,usno hebcal
+yom-kippur,Yom Kippur,jewish,2050,2050-09-26,Monday,,2050-09-25,2050-09-26,usno hebcal
+sukkot,Sukkot,jewish,1990,1990-10-04,Thursday,,1990-10-03,1990-10-10,usno hebcal
+sukkot,Sukkot,jewish,1991,1991-09-23,Monday,,1991-09-22,1991-09-29,usno hebcal
+sukkot,Sukkot,jewish,1992,1992-10-12,Monday,,1992-10-11,1992-10-18,usno hebcal
+sukkot,Sukkot,jewish,1993,1993-09-30,Thursday,,1993-09-29,1993-10-06,usno hebcal
+sukkot,Sukkot,jewish,1994,1994-09-20,Tuesday,,1994-09-19,1994-09-26,usno hebcal
+sukkot,Sukkot,jewish,1995,1995-10-09,Monday,,1995-10-08,1995-10-15,usno hebcal
+sukkot,Sukkot,jewish,1996,1996-09-28,Saturday,,1996-09-27,1996-10-04,usno hebcal
+sukkot,Sukkot,jewish,1997,1997-10-16,Thursday,,1997-10-15,1997-10-22,usno hebcal
+sukkot,Sukkot,jewish,1998,1998-10-05,Monday,,1998-10-04,1998-10-11,usno hebcal
+sukkot,Sukkot,jewish,1999,1999-09-25,Saturday,,1999-09-24,1999-10-01,usno hebcal
+sukkot,Sukkot,jewish,2000,2000-10-14,Saturday,,2000-10-13,2000-10-20,usno hebcal
+sukkot,Sukkot,jewish,2001,2001-10-02,Tuesday,,2001-10-01,2001-10-08,usno hebcal
+sukkot,Sukkot,jewish,2002,2002-09-21,Saturday,,2002-09-20,2002-09-27,usno hebcal
+sukkot,Sukkot,jewish,2003,2003-10-11,Saturday,,2003-10-10,2003-10-17,usno hebcal
+sukkot,Sukkot,jewish,2004,2004-09-30,Thursday,,2004-09-29,2004-10-06,usno hebcal
+sukkot,Sukkot,jewish,2005,2005-10-18,Tuesday,,2005-10-17,2005-10-24,usno hebcal
+sukkot,Sukkot,jewish,2006,2006-10-07,Saturday,,2006-10-06,2006-10-13,usno hebcal
+sukkot,Sukkot,jewish,2007,2007-09-27,Thursday,,2007-09-26,2007-10-03,usno hebcal
+sukkot,Sukkot,jewish,2008,2008-10-14,Tuesday,,2008-10-13,2008-10-20,usno hebcal
+sukkot,Sukkot,jewish,2009,2009-10-03,Saturday,,2009-10-02,2009-10-09,usno hebcal
+sukkot,Sukkot,jewish,2010,2010-09-23,Thursday,,2010-09-22,2010-09-29,usno hebcal
+sukkot,Sukkot,jewish,2011,2011-10-13,Thursday,,2011-10-12,2011-10-19,usno hebcal
+sukkot,Sukkot,jewish,2012,2012-10-01,Monday,,2012-09-30,2012-10-07,usno hebcal
+sukkot,Sukkot,jewish,2013,2013-09-19,Thursday,,2013-09-18,2013-09-25,usno hebcal
+sukkot,Sukkot,jewish,2014,2014-10-09,Thursday,,2014-10-08,2014-10-15,usno hebcal
+sukkot,Sukkot,jewish,2015,2015-09-28,Monday,,2015-09-27,2015-10-04,usno hebcal
+sukkot,Sukkot,jewish,2016,2016-10-17,Monday,,2016-10-16,2016-10-23,usno hebcal
+sukkot,Sukkot,jewish,2017,2017-10-05,Thursday,,2017-10-04,2017-10-11,usno hebcal
+sukkot,Sukkot,jewish,2018,2018-09-24,Monday,,2018-09-23,2018-09-30,usno hebcal
+sukkot,Sukkot,jewish,2019,2019-10-14,Monday,,2019-10-13,2019-10-20,usno hebcal
+sukkot,Sukkot,jewish,2020,2020-10-03,Saturday,,2020-10-02,2020-10-09,usno hebcal
+sukkot,Sukkot,jewish,2021,2021-09-21,Tuesday,,2021-09-20,2021-09-27,usno hebcal
+sukkot,Sukkot,jewish,2022,2022-10-10,Monday,,2022-10-09,2022-10-16,usno hebcal
+sukkot,Sukkot,jewish,2023,2023-09-30,Saturday,,2023-09-29,2023-10-06,usno hebcal
+sukkot,Sukkot,jewish,2024,2024-10-17,Thursday,,2024-10-16,2024-10-23,usno hebcal
+sukkot,Sukkot,jewish,2025,2025-10-07,Tuesday,,2025-10-06,2025-10-13,usno hebcal
+sukkot,Sukkot,jewish,2026,2026-09-26,Saturday,,2026-09-25,2026-10-02,usno hebcal
+sukkot,Sukkot,jewish,2027,2027-10-16,Saturday,,2027-10-15,2027-10-22,usno hebcal
+sukkot,Sukkot,jewish,2028,2028-10-05,Thursday,,2028-10-04,2028-10-11,usno hebcal
+sukkot,Sukkot,jewish,2029,2029-09-24,Monday,,2029-09-23,2029-09-30,usno hebcal
+sukkot,Sukkot,jewish,2030,2030-10-12,Saturday,,2030-10-11,2030-10-18,usno hebcal
+sukkot,Sukkot,jewish,2031,2031-10-02,Thursday,,2031-10-01,2031-10-08,usno hebcal
+sukkot,Sukkot,jewish,2032,2032-09-20,Monday,,2032-09-19,2032-09-26,usno hebcal
+sukkot,Sukkot,jewish,2033,2033-10-08,Saturday,,2033-10-07,2033-10-14,usno hebcal
+sukkot,Sukkot,jewish,2034,2034-09-28,Thursday,,2034-09-27,2034-10-04,usno hebcal
+sukkot,Sukkot,jewish,2035,2035-10-18,Thursday,,2035-10-17,2035-10-24,usno hebcal
+sukkot,Sukkot,jewish,2036,2036-10-06,Monday,,2036-10-05,2036-10-12,usno hebcal
+sukkot,Sukkot,jewish,2037,2037-09-24,Thursday,,2037-09-23,2037-09-30,usno hebcal
+sukkot,Sukkot,jewish,2038,2038-10-14,Thursday,,2038-10-13,2038-10-20,usno hebcal
+sukkot,Sukkot,jewish,2039,2039-10-03,Monday,,2039-10-02,2039-10-09,usno hebcal
+sukkot,Sukkot,jewish,2040,2040-09-22,Saturday,,2040-09-21,2040-09-28,usno hebcal
+sukkot,Sukkot,jewish,2041,2041-10-10,Thursday,,2041-10-09,2041-10-16,usno hebcal
+sukkot,Sukkot,jewish,2042,2042-09-29,Monday,,2042-09-28,2042-10-05,usno hebcal
+sukkot,Sukkot,jewish,2043,2043-10-19,Monday,,2043-10-18,2043-10-25,usno hebcal
+sukkot,Sukkot,jewish,2044,2044-10-06,Thursday,,2044-10-05,2044-10-12,usno hebcal
+sukkot,Sukkot,jewish,2045,2045-09-26,Tuesday,,2045-09-25,2045-10-02,usno hebcal
+sukkot,Sukkot,jewish,2046,2046-10-15,Monday,,2046-10-14,2046-10-21,usno hebcal
+sukkot,Sukkot,jewish,2047,2047-10-05,Saturday,,2047-10-04,2047-10-11,usno hebcal
+sukkot,Sukkot,jewish,2048,2048-09-22,Tuesday,,2048-09-21,2048-09-28,usno hebcal
+sukkot,Sukkot,jewish,2049,2049-10-11,Monday,,2049-10-10,2049-10-17,usno hebcal
+sukkot,Sukkot,jewish,2050,2050-10-01,Saturday,,2050-09-30,2050-10-07,usno hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,1990,1990-10-11,Thursday,,1990-10-10,1990-10-12,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,1991,1991-09-30,Monday,,1991-09-29,1991-10-01,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,1992,1992-10-19,Monday,,1992-10-18,1992-10-20,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,1993,1993-10-07,Thursday,,1993-10-06,1993-10-08,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,1994,1994-09-27,Tuesday,,1994-09-26,1994-09-28,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,1995,1995-10-16,Monday,,1995-10-15,1995-10-17,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,1996,1996-10-05,Saturday,,1996-10-04,1996-10-06,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,1997,1997-10-23,Thursday,,1997-10-22,1997-10-24,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,1998,1998-10-12,Monday,,1998-10-11,1998-10-13,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,1999,1999-10-02,Saturday,,1999-10-01,1999-10-03,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2000,2000-10-21,Saturday,,2000-10-20,2000-10-22,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2001,2001-10-09,Tuesday,,2001-10-08,2001-10-10,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2002,2002-09-28,Saturday,,2002-09-27,2002-09-29,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2003,2003-10-18,Saturday,,2003-10-17,2003-10-19,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2004,2004-10-07,Thursday,,2004-10-06,2004-10-08,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2005,2005-10-25,Tuesday,,2005-10-24,2005-10-26,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2006,2006-10-14,Saturday,,2006-10-13,2006-10-15,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2007,2007-10-04,Thursday,,2007-10-03,2007-10-05,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2008,2008-10-21,Tuesday,,2008-10-20,2008-10-22,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2009,2009-10-10,Saturday,,2009-10-09,2009-10-11,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2010,2010-09-30,Thursday,,2010-09-29,2010-10-01,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2011,2011-10-20,Thursday,,2011-10-19,2011-10-21,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2012,2012-10-08,Monday,,2012-10-07,2012-10-09,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2013,2013-09-26,Thursday,,2013-09-25,2013-09-27,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2014,2014-10-16,Thursday,,2014-10-15,2014-10-17,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2015,2015-10-05,Monday,,2015-10-04,2015-10-06,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2016,2016-10-24,Monday,,2016-10-23,2016-10-25,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2017,2017-10-12,Thursday,,2017-10-11,2017-10-13,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2018,2018-10-01,Monday,,2018-09-30,2018-10-02,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2019,2019-10-21,Monday,,2019-10-20,2019-10-22,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2020,2020-10-10,Saturday,,2020-10-09,2020-10-11,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2021,2021-09-28,Tuesday,,2021-09-27,2021-09-29,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2022,2022-10-17,Monday,,2022-10-16,2022-10-18,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2023,2023-10-07,Saturday,,2023-10-06,2023-10-08,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2024,2024-10-24,Thursday,,2024-10-23,2024-10-25,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2025,2025-10-14,Tuesday,,2025-10-13,2025-10-15,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2026,2026-10-03,Saturday,,2026-10-02,2026-10-04,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2027,2027-10-23,Saturday,,2027-10-22,2027-10-24,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2028,2028-10-12,Thursday,,2028-10-11,2028-10-13,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2029,2029-10-01,Monday,,2029-09-30,2029-10-02,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2030,2030-10-19,Saturday,,2030-10-18,2030-10-20,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2031,2031-10-09,Thursday,,2031-10-08,2031-10-10,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2032,2032-09-27,Monday,,2032-09-26,2032-09-28,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2033,2033-10-15,Saturday,,2033-10-14,2033-10-16,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2034,2034-10-05,Thursday,,2034-10-04,2034-10-06,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2035,2035-10-25,Thursday,,2035-10-24,2035-10-26,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2036,2036-10-13,Monday,,2036-10-12,2036-10-14,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2037,2037-10-01,Thursday,,2037-09-30,2037-10-02,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2038,2038-10-21,Thursday,,2038-10-20,2038-10-22,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2039,2039-10-10,Monday,,2039-10-09,2039-10-11,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2040,2040-09-29,Saturday,,2040-09-28,2040-09-30,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2041,2041-10-17,Thursday,,2041-10-16,2041-10-18,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2042,2042-10-06,Monday,,2042-10-05,2042-10-07,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2043,2043-10-26,Monday,,2043-10-25,2043-10-27,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2044,2044-10-13,Thursday,,2044-10-12,2044-10-14,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2045,2045-10-03,Tuesday,,2045-10-02,2045-10-04,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2046,2046-10-22,Monday,,2046-10-21,2046-10-23,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2047,2047-10-12,Saturday,,2047-10-11,2047-10-13,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2048,2048-09-29,Tuesday,,2048-09-28,2048-09-30,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2049,2049-10-18,Monday,,2049-10-17,2049-10-19,hebcal
+shemini-atzeret,Shemini Atzeret and Simchat Torah,jewish,2050,2050-10-08,Saturday,,2050-10-07,2050-10-09,hebcal
+hanukkah,Hanukkah,jewish,1990,1990-12-12,Wednesday,,1990-12-11,1990-12-19,usno hebcal
+hanukkah,Hanukkah,jewish,1991,1991-12-02,Monday,,1991-12-01,1991-12-09,usno hebcal
+hanukkah,Hanukkah,jewish,1992,1992-12-20,Sunday,,1992-12-19,1992-12-27,usno hebcal
+hanukkah,Hanukkah,jewish,1993,1993-12-09,Thursday,,1993-12-08,1993-12-16,usno hebcal
+hanukkah,Hanukkah,jewish,1994,1994-11-28,Monday,,1994-11-27,1994-12-05,usno hebcal
+hanukkah,Hanukkah,jewish,1995,1995-12-18,Monday,,1995-12-17,1995-12-25,usno hebcal
+hanukkah,Hanukkah,jewish,1996,1996-12-06,Friday,,1996-12-05,1996-12-13,usno hebcal
+hanukkah,Hanukkah,jewish,1997,1997-12-24,Wednesday,,1997-12-23,1997-12-31,usno hebcal
+hanukkah,Hanukkah,jewish,1998,1998-12-14,Monday,,1998-12-13,1998-12-21,usno hebcal
+hanukkah,Hanukkah,jewish,1999,1999-12-04,Saturday,,1999-12-03,1999-12-11,usno hebcal
+hanukkah,Hanukkah,jewish,2000,2000-12-22,Friday,,2000-12-21,2000-12-29,usno hebcal
+hanukkah,Hanukkah,jewish,2001,2001-12-10,Monday,,2001-12-09,2001-12-17,usno hebcal
+hanukkah,Hanukkah,jewish,2002,2002-11-30,Saturday,,2002-11-29,2002-12-07,usno hebcal
+hanukkah,Hanukkah,jewish,2003,2003-12-20,Saturday,,2003-12-19,2003-12-27,usno hebcal
+hanukkah,Hanukkah,jewish,2004,2004-12-08,Wednesday,,2004-12-07,2004-12-15,usno hebcal
+hanukkah,Hanukkah,jewish,2005,2005-12-26,Monday,,2005-12-25,2006-01-02,usno hebcal
+hanukkah,Hanukkah,jewish,2006,2006-12-16,Saturday,,2006-12-15,2006-12-23,usno hebcal
+hanukkah,Hanukkah,jewish,2007,2007-12-05,Wednesday,,2007-12-04,2007-12-12,usno hebcal
+hanukkah,Hanukkah,jewish,2008,2008-12-22,Monday,,2008-12-21,2008-12-29,usno hebcal
+hanukkah,Hanukkah,jewish,2009,2009-12-12,Saturday,,2009-12-11,2009-12-19,usno hebcal
+hanukkah,Hanukkah,jewish,2010,2010-12-02,Thursday,,2010-12-01,2010-12-09,usno hebcal
+hanukkah,Hanukkah,jewish,2011,2011-12-21,Wednesday,,2011-12-20,2011-12-28,usno hebcal
+hanukkah,Hanukkah,jewish,2012,2012-12-09,Sunday,,2012-12-08,2012-12-16,usno hebcal
+hanukkah,Hanukkah,jewish,2013,2013-11-28,Thursday,,2013-11-27,2013-12-05,usno hebcal
+hanukkah,Hanukkah,jewish,2014,2014-12-17,Wednesday,,2014-12-16,2014-12-24,usno hebcal
+hanukkah,Hanukkah,jewish,2015,2015-12-07,Monday,,2015-12-06,2015-12-14,usno hebcal
+hanukkah,Hanukkah,jewish,2016,2016-12-25,Sunday,,2016-12-24,2017-01-01,usno hebcal
+hanukkah,Hanukkah,jewish,2017,2017-12-13,Wednesday,,2017-12-12,2017-12-20,usno hebcal
+hanukkah,Hanukkah,jewish,2018,2018-12-03,Monday,,2018-12-02,2018-12-10,usno hebcal
+hanukkah,Hanukkah,jewish,2019,2019-12-23,Monday,,2019-12-22,2019-12-30,usno hebcal
+hanukkah,Hanukkah,jewish,2020,2020-12-11,Friday,,2020-12-10,2020-12-18,usno hebcal
+hanukkah,Hanukkah,jewish,2021,2021-11-29,Monday,,2021-11-28,2021-12-06,usno hebcal
+hanukkah,Hanukkah,jewish,2022,2022-12-19,Monday,,2022-12-18,2022-12-26,usno hebcal
+hanukkah,Hanukkah,jewish,2023,2023-12-08,Friday,,2023-12-07,2023-12-15,usno hebcal
+hanukkah,Hanukkah,jewish,2024,2024-12-26,Thursday,,2024-12-25,2025-01-02,usno hebcal
+hanukkah,Hanukkah,jewish,2025,2025-12-15,Monday,,2025-12-14,2025-12-22,usno hebcal
+hanukkah,Hanukkah,jewish,2026,2026-12-05,Saturday,,2026-12-04,2026-12-12,usno hebcal
+hanukkah,Hanukkah,jewish,2027,2027-12-25,Saturday,,2027-12-24,2028-01-01,usno hebcal
+hanukkah,Hanukkah,jewish,2028,2028-12-13,Wednesday,,2028-12-12,2028-12-20,usno hebcal
+hanukkah,Hanukkah,jewish,2029,2029-12-02,Sunday,,2029-12-01,2029-12-09,usno hebcal
+hanukkah,Hanukkah,jewish,2030,2030-12-21,Saturday,,2030-12-20,2030-12-28,usno hebcal
+hanukkah,Hanukkah,jewish,2031,2031-12-10,Wednesday,,2031-12-09,2031-12-17,usno hebcal
+hanukkah,Hanukkah,jewish,2032,2032-11-28,Sunday,,2032-11-27,2032-12-05,usno hebcal
+hanukkah,Hanukkah,jewish,2033,2033-12-17,Saturday,,2033-12-16,2033-12-24,usno hebcal
+hanukkah,Hanukkah,jewish,2034,2034-12-07,Thursday,,2034-12-06,2034-12-14,usno hebcal
+hanukkah,Hanukkah,jewish,2035,2035-12-26,Wednesday,,2035-12-25,2036-01-02,usno hebcal
+hanukkah,Hanukkah,jewish,2036,2036-12-14,Sunday,,2036-12-13,2036-12-21,usno hebcal
+hanukkah,Hanukkah,jewish,2037,2037-12-03,Thursday,,2037-12-02,2037-12-10,usno hebcal
+hanukkah,Hanukkah,jewish,2038,2038-12-22,Wednesday,,2038-12-21,2038-12-29,usno hebcal
+hanukkah,Hanukkah,jewish,2039,2039-12-12,Monday,,2039-12-11,2039-12-19,usno hebcal
+hanukkah,Hanukkah,jewish,2040,2040-11-30,Friday,,2040-11-29,2040-12-07,usno hebcal
+hanukkah,Hanukkah,jewish,2041,2041-12-18,Wednesday,,2041-12-17,2041-12-25,usno hebcal
+hanukkah,Hanukkah,jewish,2042,2042-12-08,Monday,,2042-12-07,2042-12-15,usno hebcal
+hanukkah,Hanukkah,jewish,2043,2043-12-27,Sunday,,2043-12-26,2044-01-03,usno hebcal
+hanukkah,Hanukkah,jewish,2044,2044-12-15,Thursday,,2044-12-14,2044-12-22,usno hebcal
+hanukkah,Hanukkah,jewish,2045,2045-12-04,Monday,,2045-12-03,2045-12-11,usno hebcal
+hanukkah,Hanukkah,jewish,2046,2046-12-24,Monday,,2046-12-23,2046-12-31,usno hebcal
+hanukkah,Hanukkah,jewish,2047,2047-12-13,Friday,,2047-12-12,2047-12-20,usno hebcal
+hanukkah,Hanukkah,jewish,2048,2048-11-30,Monday,,2048-11-29,2048-12-07,usno hebcal
+hanukkah,Hanukkah,jewish,2049,2049-12-20,Monday,,2049-12-19,2049-12-27,usno hebcal
+hanukkah,Hanukkah,jewish,2050,2050-12-10,Saturday,,2050-12-09,2050-12-17,usno hebcal
+lunar-new-year,Lunar New Year,lunar,1990,1990-01-27,Saturday,,,,hko
+lunar-new-year,Lunar New Year,lunar,1991,1991-02-15,Friday,,,,hko
+lunar-new-year,Lunar New Year,lunar,1992,1992-02-04,Tuesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,1993,1993-01-23,Saturday,,,,hko
+lunar-new-year,Lunar New Year,lunar,1994,1994-02-10,Thursday,,,,hko
+lunar-new-year,Lunar New Year,lunar,1995,1995-01-31,Tuesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,1996,1996-02-19,Monday,,,,hko
+lunar-new-year,Lunar New Year,lunar,1997,1997-02-07,Friday,,,,hko
+lunar-new-year,Lunar New Year,lunar,1998,1998-01-28,Wednesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,1999,1999-02-16,Tuesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2000,2000-02-05,Saturday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2001,2001-01-24,Wednesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2002,2002-02-12,Tuesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2003,2003-02-01,Saturday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2004,2004-01-22,Thursday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2005,2005-02-09,Wednesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2006,2006-01-29,Sunday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2007,2007-02-18,Sunday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2008,2008-02-07,Thursday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2009,2009-01-26,Monday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2010,2010-02-14,Sunday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2011,2011-02-03,Thursday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2012,2012-01-23,Monday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2013,2013-02-10,Sunday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2014,2014-01-31,Friday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2015,2015-02-19,Thursday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2016,2016-02-08,Monday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2017,2017-01-28,Saturday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2018,2018-02-16,Friday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2019,2019-02-05,Tuesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2020,2020-01-25,Saturday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2021,2021-02-12,Friday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2022,2022-02-01,Tuesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2023,2023-01-22,Sunday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2024,2024-02-10,Saturday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2025,2025-01-29,Wednesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2026,2026-02-17,Tuesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2027,2027-02-06,Saturday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2028,2028-01-26,Wednesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2029,2029-02-13,Tuesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2030,2030-02-03,Sunday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2031,2031-01-23,Thursday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2032,2032-02-11,Wednesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2033,2033-01-31,Monday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2034,2034-02-19,Sunday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2035,2035-02-08,Thursday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2036,2036-01-28,Monday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2037,2037-02-15,Sunday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2038,2038-02-04,Thursday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2039,2039-01-24,Monday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2040,2040-02-12,Sunday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2041,2041-02-01,Friday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2042,2042-01-22,Wednesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2043,2043-02-10,Tuesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2044,2044-01-30,Saturday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2045,2045-02-17,Friday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2046,2046-02-06,Tuesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2047,2047-01-26,Saturday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2048,2048-02-14,Friday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2049,2049-02-02,Tuesday,,,,hko
+lunar-new-year,Lunar New Year,lunar,2050,2050-01-23,Sunday,,,,hko
+valentines-day,Valentine's Day,observance,1990,1990-02-14,Wednesday,,,,calendar
+valentines-day,Valentine's Day,observance,1991,1991-02-14,Thursday,,,,calendar
+valentines-day,Valentine's Day,observance,1992,1992-02-14,Friday,,,,calendar
+valentines-day,Valentine's Day,observance,1993,1993-02-14,Sunday,,,,calendar
+valentines-day,Valentine's Day,observance,1994,1994-02-14,Monday,,,,calendar
+valentines-day,Valentine's Day,observance,1995,1995-02-14,Tuesday,,,,calendar
+valentines-day,Valentine's Day,observance,1996,1996-02-14,Wednesday,,,,calendar
+valentines-day,Valentine's Day,observance,1997,1997-02-14,Friday,,,,calendar
+valentines-day,Valentine's Day,observance,1998,1998-02-14,Saturday,,,,calendar
+valentines-day,Valentine's Day,observance,1999,1999-02-14,Sunday,,,,calendar
+valentines-day,Valentine's Day,observance,2000,2000-02-14,Monday,,,,calendar
+valentines-day,Valentine's Day,observance,2001,2001-02-14,Wednesday,,,,calendar
+valentines-day,Valentine's Day,observance,2002,2002-02-14,Thursday,,,,calendar
+valentines-day,Valentine's Day,observance,2003,2003-02-14,Friday,,,,calendar
+valentines-day,Valentine's Day,observance,2004,2004-02-14,Saturday,,,,calendar
+valentines-day,Valentine's Day,observance,2005,2005-02-14,Monday,,,,calendar
+valentines-day,Valentine's Day,observance,2006,2006-02-14,Tuesday,,,,calendar
+valentines-day,Valentine's Day,observance,2007,2007-02-14,Wednesday,,,,calendar
+valentines-day,Valentine's Day,observance,2008,2008-02-14,Thursday,,,,calendar
+valentines-day,Valentine's Day,observance,2009,2009-02-14,Saturday,,,,calendar
+valentines-day,Valentine's Day,observance,2010,2010-02-14,Sunday,,,,calendar
+valentines-day,Valentine's Day,observance,2011,2011-02-14,Monday,,,,calendar
+valentines-day,Valentine's Day,observance,2012,2012-02-14,Tuesday,,,,calendar
+valentines-day,Valentine's Day,observance,2013,2013-02-14,Thursday,,,,calendar
+valentines-day,Valentine's Day,observance,2014,2014-02-14,Friday,,,,calendar
+valentines-day,Valentine's Day,observance,2015,2015-02-14,Saturday,,,,calendar
+valentines-day,Valentine's Day,observance,2016,2016-02-14,Sunday,,,,calendar
+valentines-day,Valentine's Day,observance,2017,2017-02-14,Tuesday,,,,calendar
+valentines-day,Valentine's Day,observance,2018,2018-02-14,Wednesday,,,,calendar
+valentines-day,Valentine's Day,observance,2019,2019-02-14,Thursday,,,,calendar
+valentines-day,Valentine's Day,observance,2020,2020-02-14,Friday,,,,calendar
+valentines-day,Valentine's Day,observance,2021,2021-02-14,Sunday,,,,calendar
+valentines-day,Valentine's Day,observance,2022,2022-02-14,Monday,,,,calendar
+valentines-day,Valentine's Day,observance,2023,2023-02-14,Tuesday,,,,calendar
+valentines-day,Valentine's Day,observance,2024,2024-02-14,Wednesday,,,,calendar
+valentines-day,Valentine's Day,observance,2025,2025-02-14,Friday,,,,calendar
+valentines-day,Valentine's Day,observance,2026,2026-02-14,Saturday,,,,calendar
+valentines-day,Valentine's Day,observance,2027,2027-02-14,Sunday,,,,calendar
+valentines-day,Valentine's Day,observance,2028,2028-02-14,Monday,,,,calendar
+valentines-day,Valentine's Day,observance,2029,2029-02-14,Wednesday,,,,calendar
+valentines-day,Valentine's Day,observance,2030,2030-02-14,Thursday,,,,calendar
+valentines-day,Valentine's Day,observance,2031,2031-02-14,Friday,,,,calendar
+valentines-day,Valentine's Day,observance,2032,2032-02-14,Saturday,,,,calendar
+valentines-day,Valentine's Day,observance,2033,2033-02-14,Monday,,,,calendar
+valentines-day,Valentine's Day,observance,2034,2034-02-14,Tuesday,,,,calendar
+valentines-day,Valentine's Day,observance,2035,2035-02-14,Wednesday,,,,calendar
+valentines-day,Valentine's Day,observance,2036,2036-02-14,Thursday,,,,calendar
+valentines-day,Valentine's Day,observance,2037,2037-02-14,Saturday,,,,calendar
+valentines-day,Valentine's Day,observance,2038,2038-02-14,Sunday,,,,calendar
+valentines-day,Valentine's Day,observance,2039,2039-02-14,Monday,,,,calendar
+valentines-day,Valentine's Day,observance,2040,2040-02-14,Tuesday,,,,calendar
+valentines-day,Valentine's Day,observance,2041,2041-02-14,Thursday,,,,calendar
+valentines-day,Valentine's Day,observance,2042,2042-02-14,Friday,,,,calendar
+valentines-day,Valentine's Day,observance,2043,2043-02-14,Saturday,,,,calendar
+valentines-day,Valentine's Day,observance,2044,2044-02-14,Sunday,,,,calendar
+valentines-day,Valentine's Day,observance,2045,2045-02-14,Tuesday,,,,calendar
+valentines-day,Valentine's Day,observance,2046,2046-02-14,Wednesday,,,,calendar
+valentines-day,Valentine's Day,observance,2047,2047-02-14,Thursday,,,,calendar
+valentines-day,Valentine's Day,observance,2048,2048-02-14,Friday,,,,calendar
+valentines-day,Valentine's Day,observance,2049,2049-02-14,Sunday,,,,calendar
+valentines-day,Valentine's Day,observance,2050,2050-02-14,Monday,,,,calendar
+mothers-day,Mother's Day,observance,1990,1990-05-13,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,1991,1991-05-12,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,1992,1992-05-10,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,1993,1993-05-09,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,1994,1994-05-08,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,1995,1995-05-14,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,1996,1996-05-12,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,1997,1997-05-11,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,1998,1998-05-10,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,1999,1999-05-09,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2000,2000-05-14,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2001,2001-05-13,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2002,2002-05-12,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2003,2003-05-11,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2004,2004-05-09,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2005,2005-05-08,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2006,2006-05-14,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2007,2007-05-13,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2008,2008-05-11,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2009,2009-05-10,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2010,2010-05-09,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2011,2011-05-08,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2012,2012-05-13,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2013,2013-05-12,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2014,2014-05-11,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2015,2015-05-10,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2016,2016-05-08,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2017,2017-05-14,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2018,2018-05-13,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2019,2019-05-12,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2020,2020-05-10,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2021,2021-05-09,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2022,2022-05-08,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2023,2023-05-14,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2024,2024-05-12,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2025,2025-05-11,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2026,2026-05-10,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2027,2027-05-09,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2028,2028-05-14,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2029,2029-05-13,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2030,2030-05-12,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2031,2031-05-11,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2032,2032-05-09,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2033,2033-05-08,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2034,2034-05-14,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2035,2035-05-13,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2036,2036-05-11,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2037,2037-05-10,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2038,2038-05-09,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2039,2039-05-08,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2040,2040-05-13,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2041,2041-05-12,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2042,2042-05-11,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2043,2043-05-10,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2044,2044-05-08,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2045,2045-05-14,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2046,2046-05-13,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2047,2047-05-12,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2048,2048-05-10,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2049,2049-05-09,Sunday,,,,calendar
+mothers-day,Mother's Day,observance,2050,2050-05-08,Sunday,,,,calendar
+fathers-day,Father's Day,observance,1990,1990-06-17,Sunday,,,,calendar
+fathers-day,Father's Day,observance,1991,1991-06-16,Sunday,,,,calendar
+fathers-day,Father's Day,observance,1992,1992-06-21,Sunday,,,,calendar
+fathers-day,Father's Day,observance,1993,1993-06-20,Sunday,,,,calendar
+fathers-day,Father's Day,observance,1994,1994-06-19,Sunday,,,,calendar
+fathers-day,Father's Day,observance,1995,1995-06-18,Sunday,,,,calendar
+fathers-day,Father's Day,observance,1996,1996-06-16,Sunday,,,,calendar
+fathers-day,Father's Day,observance,1997,1997-06-15,Sunday,,,,calendar
+fathers-day,Father's Day,observance,1998,1998-06-21,Sunday,,,,calendar
+fathers-day,Father's Day,observance,1999,1999-06-20,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2000,2000-06-18,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2001,2001-06-17,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2002,2002-06-16,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2003,2003-06-15,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2004,2004-06-20,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2005,2005-06-19,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2006,2006-06-18,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2007,2007-06-17,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2008,2008-06-15,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2009,2009-06-21,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2010,2010-06-20,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2011,2011-06-19,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2012,2012-06-17,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2013,2013-06-16,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2014,2014-06-15,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2015,2015-06-21,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2016,2016-06-19,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2017,2017-06-18,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2018,2018-06-17,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2019,2019-06-16,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2020,2020-06-21,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2021,2021-06-20,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2022,2022-06-19,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2023,2023-06-18,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2024,2024-06-16,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2025,2025-06-15,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2026,2026-06-21,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2027,2027-06-20,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2028,2028-06-18,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2029,2029-06-17,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2030,2030-06-16,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2031,2031-06-15,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2032,2032-06-20,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2033,2033-06-19,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2034,2034-06-18,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2035,2035-06-17,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2036,2036-06-15,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2037,2037-06-21,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2038,2038-06-20,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2039,2039-06-19,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2040,2040-06-17,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2041,2041-06-16,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2042,2042-06-15,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2043,2043-06-21,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2044,2044-06-19,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2045,2045-06-18,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2046,2046-06-17,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2047,2047-06-16,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2048,2048-06-21,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2049,2049-06-20,Sunday,,,,calendar
+fathers-day,Father's Day,observance,2050,2050-06-19,Sunday,,,,calendar
+halloween,Halloween,observance,1990,1990-10-31,Wednesday,,,,calendar
+halloween,Halloween,observance,1991,1991-10-31,Thursday,,,,calendar
+halloween,Halloween,observance,1992,1992-10-31,Saturday,,,,calendar
+halloween,Halloween,observance,1993,1993-10-31,Sunday,,,,calendar
+halloween,Halloween,observance,1994,1994-10-31,Monday,,,,calendar
+halloween,Halloween,observance,1995,1995-10-31,Tuesday,,,,calendar
+halloween,Halloween,observance,1996,1996-10-31,Thursday,,,,calendar
+halloween,Halloween,observance,1997,1997-10-31,Friday,,,,calendar
+halloween,Halloween,observance,1998,1998-10-31,Saturday,,,,calendar
+halloween,Halloween,observance,1999,1999-10-31,Sunday,,,,calendar
+halloween,Halloween,observance,2000,2000-10-31,Tuesday,,,,calendar
+halloween,Halloween,observance,2001,2001-10-31,Wednesday,,,,calendar
+halloween,Halloween,observance,2002,2002-10-31,Thursday,,,,calendar
+halloween,Halloween,observance,2003,2003-10-31,Friday,,,,calendar
+halloween,Halloween,observance,2004,2004-10-31,Sunday,,,,calendar
+halloween,Halloween,observance,2005,2005-10-31,Monday,,,,calendar
+halloween,Halloween,observance,2006,2006-10-31,Tuesday,,,,calendar
+halloween,Halloween,observance,2007,2007-10-31,Wednesday,,,,calendar
+halloween,Halloween,observance,2008,2008-10-31,Friday,,,,calendar
+halloween,Halloween,observance,2009,2009-10-31,Saturday,,,,calendar
+halloween,Halloween,observance,2010,2010-10-31,Sunday,,,,calendar
+halloween,Halloween,observance,2011,2011-10-31,Monday,,,,calendar
+halloween,Halloween,observance,2012,2012-10-31,Wednesday,,,,calendar
+halloween,Halloween,observance,2013,2013-10-31,Thursday,,,,calendar
+halloween,Halloween,observance,2014,2014-10-31,Friday,,,,calendar
+halloween,Halloween,observance,2015,2015-10-31,Saturday,,,,calendar
+halloween,Halloween,observance,2016,2016-10-31,Monday,,,,calendar
+halloween,Halloween,observance,2017,2017-10-31,Tuesday,,,,calendar
+halloween,Halloween,observance,2018,2018-10-31,Wednesday,,,,calendar
+halloween,Halloween,observance,2019,2019-10-31,Thursday,,,,calendar
+halloween,Halloween,observance,2020,2020-10-31,Saturday,,,,calendar
+halloween,Halloween,observance,2021,2021-10-31,Sunday,,,,calendar
+halloween,Halloween,observance,2022,2022-10-31,Monday,,,,calendar
+halloween,Halloween,observance,2023,2023-10-31,Tuesday,,,,calendar
+halloween,Halloween,observance,2024,2024-10-31,Thursday,,,,calendar
+halloween,Halloween,observance,2025,2025-10-31,Friday,,,,calendar
+halloween,Halloween,observance,2026,2026-10-31,Saturday,,,,calendar
+halloween,Halloween,observance,2027,2027-10-31,Sunday,,,,calendar
+halloween,Halloween,observance,2028,2028-10-31,Tuesday,,,,calendar
+halloween,Halloween,observance,2029,2029-10-31,Wednesday,,,,calendar
+halloween,Halloween,observance,2030,2030-10-31,Thursday,,,,calendar
+halloween,Halloween,observance,2031,2031-10-31,Friday,,,,calendar
+halloween,Halloween,observance,2032,2032-10-31,Sunday,,,,calendar
+halloween,Halloween,observance,2033,2033-10-31,Monday,,,,calendar
+halloween,Halloween,observance,2034,2034-10-31,Tuesday,,,,calendar
+halloween,Halloween,observance,2035,2035-10-31,Wednesday,,,,calendar
+halloween,Halloween,observance,2036,2036-10-31,Friday,,,,calendar
+halloween,Halloween,observance,2037,2037-10-31,Saturday,,,,calendar
+halloween,Halloween,observance,2038,2038-10-31,Sunday,,,,calendar
+halloween,Halloween,observance,2039,2039-10-31,Monday,,,,calendar
+halloween,Halloween,observance,2040,2040-10-31,Wednesday,,,,calendar
+halloween,Halloween,observance,2041,2041-10-31,Thursday,,,,calendar
+halloween,Halloween,observance,2042,2042-10-31,Friday,,,,calendar
+halloween,Halloween,observance,2043,2043-10-31,Saturday,,,,calendar
+halloween,Halloween,observance,2044,2044-10-31,Monday,,,,calendar
+halloween,Halloween,observance,2045,2045-10-31,Tuesday,,,,calendar
+halloween,Halloween,observance,2046,2046-10-31,Wednesday,,,,calendar
+halloween,Halloween,observance,2047,2047-10-31,Thursday,,,,calendar
+halloween,Halloween,observance,2048,2048-10-31,Saturday,,,,calendar
+halloween,Halloween,observance,2049,2049-10-31,Sunday,,,,calendar
+halloween,Halloween,observance,2050,2050-10-31,Monday,,,,calendar
+daylight-saving-time,Daylight Saving Time,observance,2007,2007-03-11,Sunday,,,2007-11-04,calendar
+daylight-saving-time,Daylight Saving Time,observance,2008,2008-03-09,Sunday,,,2008-11-02,calendar
+daylight-saving-time,Daylight Saving Time,observance,2009,2009-03-08,Sunday,,,2009-11-01,calendar
+daylight-saving-time,Daylight Saving Time,observance,2010,2010-03-14,Sunday,,,2010-11-07,calendar
+daylight-saving-time,Daylight Saving Time,observance,2011,2011-03-13,Sunday,,,2011-11-06,calendar
+daylight-saving-time,Daylight Saving Time,observance,2012,2012-03-11,Sunday,,,2012-11-04,calendar
+daylight-saving-time,Daylight Saving Time,observance,2013,2013-03-10,Sunday,,,2013-11-03,calendar
+daylight-saving-time,Daylight Saving Time,observance,2014,2014-03-09,Sunday,,,2014-11-02,calendar
+daylight-saving-time,Daylight Saving Time,observance,2015,2015-03-08,Sunday,,,2015-11-01,calendar
+daylight-saving-time,Daylight Saving Time,observance,2016,2016-03-13,Sunday,,,2016-11-06,calendar
+daylight-saving-time,Daylight Saving Time,observance,2017,2017-03-12,Sunday,,,2017-11-05,calendar
+daylight-saving-time,Daylight Saving Time,observance,2018,2018-03-11,Sunday,,,2018-11-04,calendar
+daylight-saving-time,Daylight Saving Time,observance,2019,2019-03-10,Sunday,,,2019-11-03,calendar
+daylight-saving-time,Daylight Saving Time,observance,2020,2020-03-08,Sunday,,,2020-11-01,calendar
+daylight-saving-time,Daylight Saving Time,observance,2021,2021-03-14,Sunday,,,2021-11-07,calendar
+daylight-saving-time,Daylight Saving Time,observance,2022,2022-03-13,Sunday,,,2022-11-06,calendar
+daylight-saving-time,Daylight Saving Time,observance,2023,2023-03-12,Sunday,,,2023-11-05,calendar
+daylight-saving-time,Daylight Saving Time,observance,2024,2024-03-10,Sunday,,,2024-11-03,calendar
+daylight-saving-time,Daylight Saving Time,observance,2025,2025-03-09,Sunday,,,2025-11-02,calendar
+daylight-saving-time,Daylight Saving Time,observance,2026,2026-03-08,Sunday,,,2026-11-01,calendar
+daylight-saving-time,Daylight Saving Time,observance,2027,2027-03-14,Sunday,,,2027-11-07,calendar
+daylight-saving-time,Daylight Saving Time,observance,2028,2028-03-12,Sunday,,,2028-11-05,calendar
+daylight-saving-time,Daylight Saving Time,observance,2029,2029-03-11,Sunday,,,2029-11-04,calendar
+daylight-saving-time,Daylight Saving Time,observance,2030,2030-03-10,Sunday,,,2030-11-03,calendar
+daylight-saving-time,Daylight Saving Time,observance,2031,2031-03-09,Sunday,,,2031-11-02,calendar
+daylight-saving-time,Daylight Saving Time,observance,2032,2032-03-14,Sunday,,,2032-11-07,calendar
+daylight-saving-time,Daylight Saving Time,observance,2033,2033-03-13,Sunday,,,2033-11-06,calendar
+daylight-saving-time,Daylight Saving Time,observance,2034,2034-03-12,Sunday,,,2034-11-05,calendar
+daylight-saving-time,Daylight Saving Time,observance,2035,2035-03-11,Sunday,,,2035-11-04,calendar
+daylight-saving-time,Daylight Saving Time,observance,2036,2036-03-09,Sunday,,,2036-11-02,calendar
+daylight-saving-time,Daylight Saving Time,observance,2037,2037-03-08,Sunday,,,2037-11-01,calendar
+daylight-saving-time,Daylight Saving Time,observance,2038,2038-03-14,Sunday,,,2038-11-07,calendar
+daylight-saving-time,Daylight Saving Time,observance,2039,2039-03-13,Sunday,,,2039-11-06,calendar
+daylight-saving-time,Daylight Saving Time,observance,2040,2040-03-11,Sunday,,,2040-11-04,calendar
+daylight-saving-time,Daylight Saving Time,observance,2041,2041-03-10,Sunday,,,2041-11-03,calendar
+daylight-saving-time,Daylight Saving Time,observance,2042,2042-03-09,Sunday,,,2042-11-02,calendar
+daylight-saving-time,Daylight Saving Time,observance,2043,2043-03-08,Sunday,,,2043-11-01,calendar
+daylight-saving-time,Daylight Saving Time,observance,2044,2044-03-13,Sunday,,,2044-11-06,calendar
+daylight-saving-time,Daylight Saving Time,observance,2045,2045-03-12,Sunday,,,2045-11-05,calendar
+daylight-saving-time,Daylight Saving Time,observance,2046,2046-03-11,Sunday,,,2046-11-04,calendar
+daylight-saving-time,Daylight Saving Time,observance,2047,2047-03-10,Sunday,,,2047-11-03,calendar
+daylight-saving-time,Daylight Saving Time,observance,2048,2048-03-08,Sunday,,,2048-11-01,calendar
+daylight-saving-time,Daylight Saving Time,observance,2049,2049-03-14,Sunday,,,2049-11-07,calendar
+daylight-saving-time,Daylight Saving Time,observance,2050,2050-03-13,Sunday,,,2050-11-06,calendar
+election-day,Election Day,observance,1990,1990-11-06,Tuesday,,,,calendar
+election-day,Election Day,observance,1992,1992-11-03,Tuesday,,,,calendar
+election-day,Election Day,observance,1994,1994-11-08,Tuesday,,,,calendar
+election-day,Election Day,observance,1996,1996-11-05,Tuesday,,,,calendar
+election-day,Election Day,observance,1998,1998-11-03,Tuesday,,,,calendar
+election-day,Election Day,observance,2000,2000-11-07,Tuesday,,,,calendar
+election-day,Election Day,observance,2002,2002-11-05,Tuesday,,,,calendar
+election-day,Election Day,observance,2004,2004-11-02,Tuesday,,,,calendar
+election-day,Election Day,observance,2006,2006-11-07,Tuesday,,,,calendar
+election-day,Election Day,observance,2008,2008-11-04,Tuesday,,,,calendar
+election-day,Election Day,observance,2010,2010-11-02,Tuesday,,,,calendar
+election-day,Election Day,observance,2012,2012-11-06,Tuesday,,,,calendar
+election-day,Election Day,observance,2014,2014-11-04,Tuesday,,,,calendar
+election-day,Election Day,observance,2016,2016-11-08,Tuesday,,,,calendar
+election-day,Election Day,observance,2018,2018-11-06,Tuesday,,,,calendar
+election-day,Election Day,observance,2020,2020-11-03,Tuesday,,,,calendar
+election-day,Election Day,observance,2022,2022-11-08,Tuesday,,,,calendar
+election-day,Election Day,observance,2024,2024-11-05,Tuesday,,,,calendar
+election-day,Election Day,observance,2026,2026-11-03,Tuesday,,,,calendar
+election-day,Election Day,observance,2028,2028-11-07,Tuesday,,,,calendar
+election-day,Election Day,observance,2030,2030-11-05,Tuesday,,,,calendar
+election-day,Election Day,observance,2032,2032-11-02,Tuesday,,,,calendar
+election-day,Election Day,observance,2034,2034-11-07,Tuesday,,,,calendar
+election-day,Election Day,observance,2036,2036-11-04,Tuesday,,,,calendar
+election-day,Election Day,observance,2038,2038-11-02,Tuesday,,,,calendar
+election-day,Election Day,observance,2040,2040-11-06,Tuesday,,,,calendar
+election-day,Election Day,observance,2042,2042-11-04,Tuesday,,,,calendar
+election-day,Election Day,observance,2044,2044-11-08,Tuesday,,,,calendar
+election-day,Election Day,observance,2046,2046-11-06,Tuesday,,,,calendar
+election-day,Election Day,observance,2048,2048-11-03,Tuesday,,,,calendar
+election-day,Election Day,observance,2050,2050-11-08,Tuesday,,,,calendar
