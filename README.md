@@ -1,8 +1,8 @@
 # Dates of holidays observed in the United States, by year
 
-The date of each of 35 holidays observed in the United States, for every year the site prints. One row per holiday and year.
+**Site: [holiday-dates.at01.io](https://holiday-dates.at01.io/)** · Download: [latest release](https://github.com/JasonTKG/us-holiday-dates/releases/latest)
 
-Site: https://holiday-dates.at01.io/
+The date of each of 35 holidays observed in the United States, for every year the site prints. One row per holiday and year.
 
 ## Files
 

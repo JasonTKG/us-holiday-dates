@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, together with the sources named in README.md."
+type: dataset
+title: "Dates of holidays observed in the United States, by year"
+abstract: "The date of each of 35 holidays observed in the United States, for every year the site prints. One row per holiday and year."
+authors:
+  - name: "JasonTKG"
+    website: "https://github.com/JasonTKG"
+url: "https://holiday-dates.at01.io/"
+repository: "https://github.com/JasonTKG/us-holiday-dates"
+license: CC-BY-4.0
+version: "2026.11.24"
+date-released: "2026-11-24"
+keywords:
+  - "dataset"
+  - "open-data"
+  - "holidays"
+  - "calendar"
+  - "easter"
+  - "hebrew-calendar"
+  - "united-states"
+  - "csv"
