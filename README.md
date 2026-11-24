@@ -2,6 +2,8 @@
 
 **Site: [holiday-dates.at01.io](https://holiday-dates.at01.io/)** · Download: [latest release](https://github.com/JasonTKG/us-holiday-dates/releases/latest)
 
+Archived on Zenodo: [doi:10.5281/zenodo.24496800](https://doi.org/10.5281/zenodo.24496800) · also on [Kaggle](https://www.kaggle.com/datasets/jasontkg/us-holiday-dates-by-year) and [Hugging Face](https://huggingface.co/datasets/lakerguy16/us-holiday-dates)
+
 The date of each of 35 holidays observed in the United States, for every year the site prints. One row per holiday and year.
 
 ## Files
