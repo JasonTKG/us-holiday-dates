@@ -9,7 +9,7 @@ authors:
 url: "https://holiday-dates.at01.io/"
 repository: "https://github.com/JasonTKG/us-holiday-dates"
 license: CC-BY-4.0
-version: "2026.11.24"
+version: "2026.11.24.1"
 date-released: "2026-11-24"
 keywords:
   - "dataset"

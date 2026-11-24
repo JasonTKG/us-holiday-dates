@@ -1,0 +1,34 @@
+{
+ "title": "Dates of holidays observed in the United States, by year",
+ "description": "Computed dates of 35 federal, Christian, Jewish and other holidays observed in the United States, each confirmed against a published official table.<br><br>Site built on this data: https://holiday-dates.at01.io/<br>Source repository, with columns, sources and how it was checked: https://github.com/JasonTKG/us-holiday-dates<br>",
+ "upload_type": "dataset",
+ "creators": [
+  {
+   "name": "JasonTKG"
+  }
+ ],
+ "license": "cc-by-4.0",
+ "keywords": [
+  "dataset",
+  "open-data",
+  "holidays",
+  "calendar",
+  "easter",
+  "hebrew-calendar",
+  "united-states",
+  "csv"
+ ],
+ "access_right": "open",
+ "related_identifiers": [
+  {
+   "identifier": "https://holiday-dates.at01.io/",
+   "relation": "isSupplementTo",
+   "scheme": "url"
+  },
+  {
+   "identifier": "https://github.com/JasonTKG/us-holiday-dates",
+   "relation": "isDerivedFrom",
+   "scheme": "url"
+  }
+ ]
+}
